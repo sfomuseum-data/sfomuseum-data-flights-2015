@@ -1,0 +1,76 @@
+{
+  "id": 1645750309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2015-07-08T02:06:44",
+    "edtf:inception": "2015-07-08~",
+    "flysfo:airline": "SY",
+    "flysfo:date": "2015-07-08",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "SY8906",
+    "flysfo:journey": "KPSM-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-70.815240,43.082266",
+    "geom:latitude": 40.350128,
+    "geom:longitude": -96.5930915,
+    "iata:airline": "SY",
+    "icao:aircraft": "B738",
+    "icao:airline": "SCX",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289871,
+    "sfomuseum:airline_id": 1159285227,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102529547,
+    "sfomuseum:flight_id": "20150708-A-SCX-8906",
+    "sfomuseum:flight_number": [
+      "SY8906", 
+      "SCX8906"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      1645750309, 
+      1159396321, 
+      102527513, 
+      102087579, 
+      85922583, 
+      102191575, 
+      85688637, 
+      85633793
+    ],
+    "wof:country": "US",
+    "wof:created": 1582917667,
+    "wof:geomhash": "4ad89955f857d7c8d4988b5d74a6edd2",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1645750309,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1645750309,
+    "wof:lastmodified": 1582917667,
+    "wof:name": "SCX8906 (KPSM-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2015",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -70.81524, 
+    43.082266
+  ],
+  "geometry": {"coordinates":[[-70.81524,43.082266],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
