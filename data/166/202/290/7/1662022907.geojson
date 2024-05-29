@@ -2,6 +2,10 @@
   "id": 1662022907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-12-01",
+    "date:cessation_upper": "2015-12-31",
+    "date:inception_lower": "2015-12-19",
+    "date:inception_upper": "2015-12-19",
     "edtf:cessation": "2015-12-19~",
     "edtf:inception": "2015-12-19T06:18:43",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151219-D-SWA-3575",
     "sfomuseum:flight_number": [
-      "WN3575", 
+      "WN3575",
       "SWA3575"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1662022907, 
-      85922583, 
-      85688637, 
+      1159396321,
+      85633793,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662022907,
-    "wof:lastmodified": 1582921367,
+    "wof:lastmodified": 1717020234,
     "wof:name": "SWA3575 (SFO-KIAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

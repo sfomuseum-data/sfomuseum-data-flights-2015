@@ -2,6 +2,10 @@
   "id": 1646041241,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-29",
+    "date:cessation_upper": "2015-09-29",
+    "date:inception_lower": "2015-09-01",
+    "date:inception_upper": "2015-09-30",
     "edtf:cessation": "2015-09-29T17:05:42",
     "edtf:inception": "2015-09-29~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526001,
     "sfomuseum:flight_id": "20150929-A-UAL-2192",
     "sfomuseum:flight_number": [
-      "UA2192", 
+      "UA2192",
       "UAL2192"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1646041241, 
-      102087579, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396321, 
+      102191575,
+      102087579,
+      85633793,
+      85922583,
+      85688637,
+      1159396321,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646041241,
-    "wof:lastmodified": 1582919352,
+    "wof:lastmodified": 1717020271,
     "wof:name": "UAL2192 (KLGA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.875778, 
+    -122.370943,
+    37.61799,
+    -73.875778,
     40.774956
   ],
   "geometry": {"coordinates":[[-73.875778,40.774956],[-122.370943,37.61799]],"type":"MultiPoint"}

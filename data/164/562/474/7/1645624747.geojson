@@ -2,6 +2,10 @@
   "id": 1645624747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-01",
+    "date:cessation_upper": "2015-06-01",
+    "date:inception_lower": "2015-06-01",
+    "date:inception_upper": "2015-06-30",
     "edtf:cessation": "2015-06-01T22:14:57",
     "edtf:inception": "2015-06-01~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20150601-A-ASA-404",
     "sfomuseum:flight_number": [
-      "AS404", 
+      "AS404",
       "ASA404"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102191575, 
-      102087579, 
-      102527513, 
-      85688637, 
-      1645624747, 
-      85922583, 
+      1159396321,
+      102191575,
+      102087579,
+      102527513,
+      85688637,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645624747,
-    "wof:lastmodified": 1582916974,
+    "wof:lastmodified": 1717020250,
     "wof:name": "ASA404 (KPDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

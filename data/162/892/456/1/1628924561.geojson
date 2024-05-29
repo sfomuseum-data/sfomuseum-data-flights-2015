@@ -2,6 +2,10 @@
   "id": 1628924561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-17",
+    "date:inception_upper": "2015-11-17",
     "edtf:cessation": "2015-11-17~",
     "edtf:inception": "2015-11-17T09:38:14",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151117-D-VRD-084",
     "sfomuseum:flight_number": [
-      "VX084", 
+      "VX084",
       "VRD084"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396321, 
-      85633793, 
-      1628924561, 
-      102527513, 
-      102087579, 
-      85922583, 
+      85688637,
+      1159396321,
+      85633793,
+      102527513,
+      102087579,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628924561,
-    "wof:lastmodified": 1582920462,
+    "wof:lastmodified": 1717020288,
     "wof:name": "VRD084 (SFO-KIAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

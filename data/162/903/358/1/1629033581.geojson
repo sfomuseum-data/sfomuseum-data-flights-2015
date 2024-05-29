@@ -2,6 +2,10 @@
   "id": 1629033581,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-03",
+    "date:cessation_upper": "2015-09-03",
+    "date:inception_lower": "2015-09-01",
+    "date:inception_upper": "2015-09-30",
     "edtf:cessation": "2015-09-03T17:14:55",
     "edtf:inception": "2015-09-03~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20150903-A-AAL-557",
     "sfomuseum:flight_number": [
-      "AA557", 
+      "AA557",
       "AAL557"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      85688637, 
-      1159396321, 
-      102191575, 
-      85922583, 
-      102527513, 
-      1629033581
+      102087579,
+      85633793,
+      85688637,
+      1159396321,
+      102191575,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582918868,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629033581,
-    "wof:lastmodified": 1582918868,
+    "wof:lastmodified": 1717020290,
     "wof:name": "AAL557 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

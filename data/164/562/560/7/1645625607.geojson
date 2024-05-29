@@ -2,6 +2,10 @@
   "id": 1645625607,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-02",
+    "date:cessation_upper": "2015-06-02",
+    "date:inception_lower": "2015-06-01",
+    "date:inception_upper": "2015-06-30",
     "edtf:cessation": "2015-06-02T09:00:25",
     "edtf:inception": "2015-06-02~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20150602-A-VRD-751",
     "sfomuseum:flight_number": [
-      "VX751", 
+      "VX751",
       "VRD751"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102087579, 
-      102191575, 
-      1645625607, 
-      1159396321, 
-      85633793, 
+      85922583,
+      85688637,
+      102087579,
+      102191575,
+      1159396321,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645625607,
-    "wof:lastmodified": 1582916979,
+    "wof:lastmodified": 1717020250,
     "wof:name": "VRD751 (KSEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

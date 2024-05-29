@@ -2,6 +2,10 @@
   "id": 1646246049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-29",
+    "date:inception_upper": "2015-11-29",
     "edtf:cessation": "2015-11-29~",
     "edtf:inception": "2015-11-29T16:12:15",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151129-D-UAL-1235",
     "sfomuseum:flight_number": [
-      "UA1235", 
+      "UA1235",
       "UAL1235"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      1646246049, 
-      102191575, 
-      85633793, 
-      85688637, 
-      1159396321, 
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      1159396321,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646246049,
-    "wof:lastmodified": 1582920823,
+    "wof:lastmodified": 1717020284,
     "wof:name": "UAL1235 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}

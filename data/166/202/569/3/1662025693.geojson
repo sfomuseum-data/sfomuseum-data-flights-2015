@@ -2,6 +2,10 @@
   "id": 1662025693,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-12-20",
+    "date:cessation_upper": "2015-12-20",
+    "date:inception_lower": "2015-12-01",
+    "date:inception_upper": "2015-12-31",
     "edtf:cessation": "2015-12-20T20:42:06",
     "edtf:inception": "2015-12-20~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20151220-A-VRD-050",
     "sfomuseum:flight_number": [
-      "VX050", 
+      "VX050",
       "VRD050"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102191575, 
-      85688637, 
-      1159396321, 
-      102087579, 
-      85633793, 
-      1662025693
+      85922583,
+      102527513,
+      102191575,
+      85688637,
+      1159396321,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582921415,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662025693,
-    "wof:lastmodified": 1582921415,
+    "wof:lastmodified": 1717020236,
     "wof:name": "VRD050 (PHNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

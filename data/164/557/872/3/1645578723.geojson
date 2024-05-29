@@ -2,6 +2,10 @@
   "id": 1645578723,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-18",
+    "date:inception_upper": "2015-05-18",
     "edtf:cessation": "2015-05-18~",
     "edtf:inception": "2015-05-18T05:27:20",
     "flysfo:airline": "BR",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150518-D-EVA-691",
     "sfomuseum:flight_number": [
-      "BR691", 
+      "BR691",
       "EVA691"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396321, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1645578723, 
-      102527513, 
+      85688637,
+      1159396321,
+      85922583,
+      102191575,
+      102087579,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645578723,
-    "wof:lastmodified": 1582916705,
+    "wof:lastmodified": 1717020251,
     "wof:name": "EVA691 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-149.968401,61.173606]],"type":"MultiPoint"}

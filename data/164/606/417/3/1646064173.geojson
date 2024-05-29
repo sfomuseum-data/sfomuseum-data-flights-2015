@@ -2,6 +2,10 @@
   "id": 1646064173,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-06",
+    "date:cessation_upper": "2015-10-06",
+    "date:inception_lower": "2015-10-01",
+    "date:inception_upper": "2015-10-31",
     "edtf:cessation": "2015-10-06T10:45:30",
     "edtf:inception": "2015-10-06~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20151006-A-AAL-2207",
     "sfomuseum:flight_number": [
-      "AA2207", 
+      "AA2207",
       "AAL2207"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396321, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102191575, 
-      102527513, 
-      1646064173
+      85688637,
+      1159396321,
+      85633793,
+      102087579,
+      85922583,
+      102191575,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582919480,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646064173,
-    "wof:lastmodified": 1582919480,
+    "wof:lastmodified": 1717020272,
     "wof:name": "AAL2207 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

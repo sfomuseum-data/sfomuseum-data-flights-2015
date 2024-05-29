@@ -2,6 +2,10 @@
   "id": 1646011387,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-19",
+    "date:cessation_upper": "2015-09-19",
+    "date:inception_lower": "2015-09-01",
+    "date:inception_upper": "2015-09-30",
     "edtf:cessation": "2015-09-19T17:09:34",
     "edtf:inception": "2015-09-19~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536481,
     "sfomuseum:flight_id": "20150919-A-UAL-1243",
     "sfomuseum:flight_number": [
-      "UA1243", 
+      "UA1243",
       "UAL1243"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      102191575, 
-      102527513, 
-      85633793, 
-      1646011387
+      102087579,
+      85922583,
+      85688637,
+      1159396321,
+      102191575,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582919186,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646011387,
-    "wof:lastmodified": 1582919186,
+    "wof:lastmodified": 1717020270,
     "wof:name": "UAL1243 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}

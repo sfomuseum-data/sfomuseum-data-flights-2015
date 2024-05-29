@@ -2,6 +2,10 @@
   "id": 1645680305,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-01",
+    "date:cessation_upper": "2015-06-30",
+    "date:inception_lower": "2015-06-18",
+    "date:inception_upper": "2015-06-18",
     "edtf:cessation": "2015-06-18~",
     "edtf:inception": "2015-06-18T01:54:35",
     "flysfo:airline": "JL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150618-D-JAL-1",
     "sfomuseum:flight_number": [
-      "JL1", 
+      "JL1",
       "JAL1"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      102527513, 
-      85688637, 
-      85633793, 
-      1159396321, 
-      85922583, 
-      1645680305
+      102191575,
+      102087579,
+      102527513,
+      85688637,
+      85633793,
+      1159396321,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582917296,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645680305,
-    "wof:lastmodified": 1582917296,
+    "wof:lastmodified": 1717020251,
     "wof:name": "JAL1 (SFO-RJTT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.554085, 
-    139.775638, 
+    -122.370943,
+    35.554085,
+    139.775638,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[139.775638,35.554085]],"type":"MultiPoint"}

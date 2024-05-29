@@ -2,6 +2,10 @@
   "id": 1628998771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-27",
+    "date:cessation_upper": "2015-05-27",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-27T23:51:00",
     "edtf:inception": "2015-05-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528943,
     "sfomuseum:flight_id": "20150527-A-UAL-2105",
     "sfomuseum:flight_number": [
-      "UA2105", 
+      "UA2105",
       "UAL2105"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      1628998771, 
-      1159396321, 
-      102527513, 
-      85633793, 
-      102191575, 
+      85922583,
+      102087579,
+      1159396321,
+      102527513,
+      85633793,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628998771,
-    "wof:lastmodified": 1582916890,
+    "wof:lastmodified": 1717020290,
     "wof:name": "UAL2105 (PHLI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -159.347789, 
-    21.981539, 
-    -122.370943, 
+    -159.347789,
+    21.981539,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-159.347789,21.981539],[-122.370943,37.61799]],"type":"MultiPoint"}

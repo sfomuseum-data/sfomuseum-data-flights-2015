@@ -2,6 +2,10 @@
   "id": 1646021931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-22",
+    "date:cessation_upper": "2015-09-22",
+    "date:inception_lower": "2015-09-01",
+    "date:inception_upper": "2015-09-30",
     "edtf:cessation": "2015-09-22T20:03:49",
     "edtf:inception": "2015-09-22~",
     "flysfo:airline": "LL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536449,
     "sfomuseum:flight_id": "20150922-A-BSK-617",
     "sfomuseum:flight_number": [
-      "LL617", 
+      "LL617",
       "BSK617"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102087579, 
-      85922583, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1646021931
+      1159396321,
+      102087579,
+      85922583,
+      102191575,
+      85633793,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582919242,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646021931,
-    "wof:lastmodified": 1582919242,
+    "wof:lastmodified": 1717020271,
     "wof:name": "BSK617 (MMMD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.937, 
-    -89.6577, 
+    -122.370943,
+    20.937,
+    -89.6577,
     37.61799
   ],
   "geometry": {"coordinates":[[-89.6577,20.937],[-122.370943,37.61799]],"type":"MultiPoint"}

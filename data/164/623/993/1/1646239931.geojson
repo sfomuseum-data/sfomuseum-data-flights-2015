@@ -2,6 +2,10 @@
   "id": 1646239931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-27",
+    "date:cessation_upper": "2015-11-27",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-27T20:19:44",
     "edtf:inception": "2015-11-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530009,
     "sfomuseum:flight_id": "20151127-A-UAL-1519",
     "sfomuseum:flight_number": [
-      "UA1519", 
+      "UA1519",
       "UAL1519"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102191575, 
-      102087579, 
-      102527513, 
-      85633793, 
-      85922583, 
-      1646239931, 
+      1159396321,
+      102191575,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646239931,
-    "wof:lastmodified": 1582920783,
+    "wof:lastmodified": 1717020291,
     "wof:name": "UAL1519 (MSY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.982609, 
-    -90.261832, 
+    -122.370943,
+    29.982609,
+    -90.261832,
     37.61799
   ],
   "geometry": {"coordinates":[[-90.261832,29.982609],[-122.370943,37.61799]],"type":"MultiPoint"}

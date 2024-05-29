@@ -2,6 +2,10 @@
   "id": 1645946291,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-01",
+    "date:cessation_upper": "2015-08-31",
+    "date:inception_lower": "2015-08-31",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-31~",
     "edtf:inception": "2015-08-31T11:24:30",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150831-D-DAL-2552",
     "sfomuseum:flight_number": [
-      "DL2552", 
+      "DL2552",
       "DAL2552"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      102087579, 
-      1645946291, 
-      85688637, 
-      102191575, 
-      85922583, 
+      1159396321,
+      85633793,
+      102087579,
+      85688637,
+      102191575,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645946291,
-    "wof:lastmodified": 1582918806,
+    "wof:lastmodified": 1717020268,
     "wof:name": "DAL2552 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

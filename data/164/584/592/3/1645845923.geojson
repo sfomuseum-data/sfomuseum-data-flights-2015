@@ -2,6 +2,10 @@
   "id": 1645845923,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-01",
+    "date:cessation_upper": "2015-08-31",
+    "date:inception_lower": "2015-08-03",
+    "date:inception_upper": "2015-08-03",
     "edtf:cessation": "2015-08-03~",
     "edtf:inception": "2015-08-03T14:26:15",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150803-D-AAL-433",
     "sfomuseum:flight_number": [
-      "AA433", 
+      "AA433",
       "AAL433"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1645845923, 
-      85688637, 
-      102527513, 
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645845923,
-    "wof:lastmodified": 1582918233,
+    "wof:lastmodified": 1717020263,
     "wof:name": "AAL433 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

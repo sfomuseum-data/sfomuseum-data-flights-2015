@@ -2,6 +2,10 @@
   "id": 1645626995,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-02",
+    "date:cessation_upper": "2015-06-02",
+    "date:inception_lower": "2015-06-01",
+    "date:inception_upper": "2015-06-30",
     "edtf:cessation": "2015-06-02T20:10:12",
     "edtf:inception": "2015-06-02~",
     "flysfo:airline": "XP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533039,
     "sfomuseum:flight_id": "20150602-A-CXP-8700",
     "sfomuseum:flight_number": [
-      "XP8700", 
+      "XP8700",
       "CXP8700"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1645626995, 
-      85922583, 
-      85633793, 
-      85688637, 
-      1159396321, 
+      102191575,
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      1159396321,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645626995,
-    "wof:lastmodified": 1582916987,
+    "wof:lastmodified": 1717020250,
     "wof:name": "CXP8700 (KGRR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -85.526805, 
+    -122.370943,
+    37.61799,
+    -85.526805,
     42.884861
   ],
   "geometry": {"coordinates":[[-85.526805,42.884861],[-122.370943,37.61799]],"type":"MultiPoint"}

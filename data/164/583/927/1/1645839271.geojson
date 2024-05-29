@@ -2,6 +2,10 @@
   "id": 1645839271,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-01",
+    "date:cessation_upper": "2015-08-31",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-01",
     "edtf:cessation": "2015-08-01~",
     "edtf:inception": "2015-08-01T16:02:33",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150801-D-UAL-650",
     "sfomuseum:flight_number": [
-      "UA650", 
+      "UA650",
       "UAL650"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      1645839271, 
-      85922583, 
-      102087579, 
-      1159396321, 
-      102191575, 
+      85688637,
+      85633793,
+      85922583,
+      102087579,
+      1159396321,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645839271,
-    "wof:lastmodified": 1582918196,
+    "wof:lastmodified": 1717020264,
     "wof:name": "UAL650 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.643029,30.206175]],"type":"MultiPoint"}

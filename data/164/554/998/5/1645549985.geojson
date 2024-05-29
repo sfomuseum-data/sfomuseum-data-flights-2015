@@ -2,6 +2,10 @@
   "id": 1645549985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-09",
+    "date:inception_upper": "2015-05-09",
     "edtf:cessation": "2015-05-09~",
     "edtf:inception": "2015-05-09T08:08:32",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150509-D-UAL-331",
     "sfomuseum:flight_number": [
-      "UA331", 
+      "UA331",
       "UAL331"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      1645549985, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
-      85633793, 
+      1159396321,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645549985,
-    "wof:lastmodified": 1582916458,
+    "wof:lastmodified": 1717020249,
     "wof:name": "UAL331 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

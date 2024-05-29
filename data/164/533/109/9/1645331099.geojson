@@ -2,6 +2,10 @@
   "id": 1645331099,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-03-03",
+    "date:cessation_upper": "2015-03-03",
+    "date:inception_lower": "2015-03-01",
+    "date:inception_upper": "2015-03-31",
     "edtf:cessation": "2015-03-03T18:19:21",
     "edtf:inception": "2015-03-03~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20150303-A-UAL-1093",
     "sfomuseum:flight_number": [
-      "UA1093", 
+      "UA1093",
       "UAL1093"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      85633793, 
-      102527513, 
-      1645331099
+      102087579,
+      102191575,
+      85922583,
+      85688637,
+      1159396321,
+      85633793,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582914960,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645331099,
-    "wof:lastmodified": 1582914960,
+    "wof:lastmodified": 1717020237,
     "wof:name": "UAL1093 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

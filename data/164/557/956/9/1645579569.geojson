@@ -2,6 +2,10 @@
   "id": 1645579569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-18",
+    "date:inception_upper": "2015-05-18",
     "edtf:cessation": "2015-05-18~",
     "edtf:inception": "2015-05-18T10:57:08",
     "flysfo:airline": "HA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150518-D-HAL-41",
     "sfomuseum:flight_number": [
-      "HA41", 
+      "HA41",
       "HAL41"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85688637, 
-      1159396321, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1645579569
+      85922583,
+      102527513,
+      85688637,
+      1159396321,
+      85633793,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582916709,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645579569,
-    "wof:lastmodified": 1582916709,
+    "wof:lastmodified": 1717020251,
     "wof:name": "HAL41 (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-156.437877,20.894952]],"type":"MultiPoint"}

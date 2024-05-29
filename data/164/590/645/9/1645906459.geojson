@@ -2,6 +2,10 @@
   "id": 1645906459,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-19",
+    "date:cessation_upper": "2015-08-19",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-19T22:30:24",
     "edtf:inception": "2015-08-19~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20150819-A-AAL-1615",
     "sfomuseum:flight_number": [
-      "AA1615", 
+      "AA1615",
       "AAL1615"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      1159396321, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85922583, 
-      1645906459
+      102087579,
+      85633793,
+      1159396321,
+      102527513,
+      85688637,
+      102191575,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582918586,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645906459,
-    "wof:lastmodified": 1582918586,
+    "wof:lastmodified": 1717020265,
     "wof:name": "AAL1615 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

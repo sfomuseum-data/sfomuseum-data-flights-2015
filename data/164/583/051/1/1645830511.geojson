@@ -2,6 +2,10 @@
   "id": 1645830511,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-01",
+    "date:cessation_upper": "2015-07-31",
+    "date:inception_lower": "2015-07-30",
+    "date:inception_upper": "2015-07-30",
     "edtf:cessation": "2015-07-30~",
     "edtf:inception": "2015-07-30T09:40:14",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150730-D-SWA-4379",
     "sfomuseum:flight_number": [
-      "WN4379", 
+      "WN4379",
       "SWA4379"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1645830511, 
-      102191575, 
-      1159396321, 
-      85633793, 
-      102087579, 
+      85922583,
+      85688637,
+      102191575,
+      1159396321,
+      85633793,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645830511,
-    "wof:lastmodified": 1582918140,
+    "wof:lastmodified": 1717020259,
     "wof:name": "SWA4379 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

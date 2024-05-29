@@ -2,6 +2,10 @@
   "id": 1646239927,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-27",
+    "date:inception_upper": "2015-11-27",
     "edtf:cessation": "2015-11-27~",
     "edtf:inception": "2015-11-27T20:14:44",
     "flysfo:airline": "SY",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151127-D-SCX-8621",
     "sfomuseum:flight_number": [
-      "SY8621", 
+      "SY8621",
       "SCX8621"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1646239927, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      85633793,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646239927,
-    "wof:lastmodified": 1582920783,
+    "wof:lastmodified": 1717020291,
     "wof:name": "SCX8621 (SFO-KJFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

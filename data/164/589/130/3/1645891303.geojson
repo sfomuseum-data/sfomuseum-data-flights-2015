@@ -2,6 +2,10 @@
   "id": 1645891303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-15",
+    "date:cessation_upper": "2015-08-15",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-15T19:23:37",
     "edtf:inception": "2015-08-15~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102521851,
     "sfomuseum:flight_id": "20150815-A-VRD-221",
     "sfomuseum:flight_number": [
-      "VX221", 
+      "VX221",
       "VRD221"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      1159396321, 
-      85922583, 
-      85633793, 
-      102087579, 
-      1645891303
+      85688637,
+      102527513,
+      102191575,
+      1159396321,
+      85922583,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582918505,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645891303,
-    "wof:lastmodified": 1582918505,
+    "wof:lastmodified": 1717020261,
     "wof:name": "VRD221 (KAUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}

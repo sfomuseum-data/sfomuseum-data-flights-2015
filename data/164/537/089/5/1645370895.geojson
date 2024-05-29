@@ -2,6 +2,10 @@
   "id": 1645370895,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-03-12",
+    "date:cessation_upper": "2015-03-12",
+    "date:inception_lower": "2015-03-01",
+    "date:inception_upper": "2015-03-31",
     "edtf:cessation": "2015-03-12T08:57:32",
     "edtf:inception": "2015-03-12~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20150312-A-UAL-1273",
     "sfomuseum:flight_number": [
-      "UA1273", 
+      "UA1273",
       "UAL1273"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1645370895, 
-      102191575, 
-      102527513, 
-      1159396321, 
-      85633793, 
-      85688637, 
+      102087579,
+      102191575,
+      102527513,
+      1159396321,
+      85633793,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645370895,
-    "wof:lastmodified": 1582915159,
+    "wof:lastmodified": 1717020238,
     "wof:name": "UAL1273 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

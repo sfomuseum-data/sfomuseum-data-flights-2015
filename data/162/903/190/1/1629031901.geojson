@@ -2,6 +2,10 @@
   "id": 1629031901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-29",
+    "date:cessation_upper": "2015-08-29",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-29T21:23:53",
     "edtf:inception": "2015-08-29~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20150829-A-SWA-4987",
     "sfomuseum:flight_number": [
-      "WN4987", 
+      "WN4987",
       "SWA4987"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1159396321, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1629031901, 
+      85633793,
+      85688637,
+      1159396321,
+      102191575,
+      102087579,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629031901,
-    "wof:lastmodified": 1582918780,
+    "wof:lastmodified": 1717020289,
     "wof:name": "SWA4987 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

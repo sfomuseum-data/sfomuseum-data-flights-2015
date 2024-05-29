@@ -2,6 +2,10 @@
   "id": 1645939585,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-29",
+    "date:cessation_upper": "2015-08-29",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-29T11:15:57",
     "edtf:inception": "2015-08-29~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530849,
     "sfomuseum:flight_id": "20150829-A-SWA-3661",
     "sfomuseum:flight_number": [
-      "WN3661", 
+      "WN3661",
       "SWA3661"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85633793, 
-      85688637, 
-      1159396321, 
-      102527513, 
-      1645939585, 
+      102191575,
+      102087579,
+      85633793,
+      85688637,
+      1159396321,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645939585,
-    "wof:lastmodified": 1582918766,
+    "wof:lastmodified": 1717020270,
     "wof:name": "SWA3661 (MKE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-87.896339,42.949572],[-122.370943,37.61799]],"type":"MultiPoint"}

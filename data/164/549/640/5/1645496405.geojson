@@ -2,6 +2,10 @@
   "id": 1645496405,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-04-22",
+    "date:cessation_upper": "2015-04-22",
+    "date:inception_lower": "2015-04-01",
+    "date:inception_upper": "2015-04-30",
     "edtf:cessation": "2015-04-22T10:42:01",
     "edtf:inception": "2015-04-22~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20150422-A-ASA-222",
     "sfomuseum:flight_number": [
-      "AS222", 
+      "AS222",
       "ASA222"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1159396321, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1645496405
+      102527513,
+      102191575,
+      1159396321,
+      85633793,
+      85922583,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582916061,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645496405,
-    "wof:lastmodified": 1582916061,
+    "wof:lastmodified": 1717020245,
     "wof:name": "ASA222 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1629360787,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-01",
+    "date:inception_lower": "2015-01-01",
+    "date:inception_upper": "2015-01-31",
     "edtf:cessation": "2015-01-01T13:23:59",
     "edtf:inception": "2015-01-01~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20150101-A-UAL-642",
     "sfomuseum:flight_number": [
-      "UA642", 
+      "UA642",
       "UAL642"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85633793, 
-      1629360787, 
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      102087579,
+      85633793,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629360787,
-    "wof:lastmodified": 1582913929,
+    "wof:lastmodified": 1717020242,
     "wof:name": "UAL642 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

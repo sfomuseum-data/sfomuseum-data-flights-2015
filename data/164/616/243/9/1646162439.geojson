@@ -2,6 +2,10 @@
   "id": 1646162439,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-04",
+    "date:inception_upper": "2015-11-04",
     "edtf:cessation": "2015-11-04~",
     "edtf:inception": "2015-11-04T11:48:53",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151104-D-SWA-457",
     "sfomuseum:flight_number": [
-      "WN457", 
+      "WN457",
       "SWA457"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1646162439, 
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102191575, 
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      85633793,
+      102191575,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646162439,
-    "wof:lastmodified": 1582920086,
+    "wof:lastmodified": 1717020277,
     "wof:name": "SWA457 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

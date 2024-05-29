@@ -2,6 +2,10 @@
   "id": 1645345505,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-03-06",
+    "date:cessation_upper": "2015-03-06",
+    "date:inception_lower": "2015-03-01",
+    "date:inception_upper": "2015-03-31",
     "edtf:cessation": "2015-03-06T13:40:42",
     "edtf:inception": "2015-03-06~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20150306-A-AAL-1150",
     "sfomuseum:flight_number": [
-      "AA1150", 
+      "AA1150",
       "AAL1150"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      102527513, 
-      85688637, 
-      102191575, 
-      1645345505, 
-      1159396321, 
+      102087579,
+      85922583,
+      102527513,
+      85688637,
+      102191575,
+      1159396321,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645345505,
-    "wof:lastmodified": 1582915021,
+    "wof:lastmodified": 1717020238,
     "wof:name": "AAL1150 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

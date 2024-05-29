@@ -2,6 +2,10 @@
   "id": 1629437819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-28",
+    "date:inception_upper": "2015-01-28",
     "edtf:cessation": "2015-01-28~",
     "edtf:inception": "2015-01-28T10:55:19",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150128-D-SWA-4835",
     "sfomuseum:flight_number": [
-      "WN4835", 
+      "WN4835",
       "SWA4835"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396321, 
-      85688637, 
-      85633793, 
-      1629437819, 
-      102087579, 
-      102527513, 
+      85922583,
+      1159396321,
+      85688637,
+      85633793,
+      102087579,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629437819,
-    "wof:lastmodified": 1582914372,
+    "wof:lastmodified": 1717020277,
     "wof:name": "SWA4835 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

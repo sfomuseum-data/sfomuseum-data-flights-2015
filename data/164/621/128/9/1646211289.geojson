@@ -2,6 +2,10 @@
   "id": 1646211289,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-18",
+    "date:cessation_upper": "2015-11-18",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-18T20:23:05",
     "edtf:inception": "2015-11-18~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20151118-A-SWA-2992",
     "sfomuseum:flight_number": [
-      "WN2992", 
+      "WN2992",
       "SWA2992"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396321, 
-      102527513, 
-      102191575, 
-      1646211289, 
-      85688637, 
-      85633793, 
+      85922583,
+      1159396321,
+      102527513,
+      102191575,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646211289,
-    "wof:lastmodified": 1582920511,
+    "wof:lastmodified": 1717020281,
     "wof:name": "SWA2992 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

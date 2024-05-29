@@ -2,6 +2,10 @@
   "id": 1646016233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-21",
+    "date:cessation_upper": "2015-09-21",
+    "date:inception_lower": "2015-09-01",
+    "date:inception_upper": "2015-09-30",
     "edtf:cessation": "2015-09-21T08:49:19",
     "edtf:inception": "2015-09-21~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102534019,
     "sfomuseum:flight_id": "20150921-A-UAL-821",
     "sfomuseum:flight_number": [
-      "UA821", 
+      "UA821",
       "UAL821"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159396321, 
-      85922583, 
-      85633793, 
-      1646016233
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      1159396321,
+      85922583,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582919212,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646016233,
-    "wof:lastmodified": 1582919212,
+    "wof:lastmodified": 1717020272,
     "wof:name": "UAL821 (CLE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -81.835629, 
+    -122.370943,
+    37.61799,
+    -81.835629,
     41.406844
   ],
   "geometry": {"coordinates":[[-81.835629,41.406844],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1646235605,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-26",
+    "date:cessation_upper": "2015-11-26",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-26T08:07:45",
     "edtf:inception": "2015-11-26~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20151126-A-SWA-3333",
     "sfomuseum:flight_number": [
-      "WN3333", 
+      "WN3333",
       "SWA3333"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      85688637, 
-      102191575, 
-      1646235605, 
-      85922583, 
-      102527513, 
+      1159396321,
+      85633793,
+      85688637,
+      102191575,
+      85922583,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646235605,
-    "wof:lastmodified": 1582920751,
+    "wof:lastmodified": 1717020283,
     "wof:name": "SWA3333 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

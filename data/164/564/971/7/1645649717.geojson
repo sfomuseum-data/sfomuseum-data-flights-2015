@@ -2,6 +2,10 @@
   "id": 1645649717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-01",
+    "date:cessation_upper": "2015-06-30",
+    "date:inception_lower": "2015-06-09",
+    "date:inception_upper": "2015-06-09",
     "edtf:cessation": "2015-06-09~",
     "edtf:inception": "2015-06-09T11:47:57",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150609-D-SWA-277",
     "sfomuseum:flight_number": [
-      "WN277", 
+      "WN277",
       "SWA277"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1645649717, 
-      85688637, 
-      85633793, 
-      102087579, 
-      102191575, 
-      85922583, 
+      102527513,
+      85688637,
+      85633793,
+      102087579,
+      102191575,
+      85922583,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645649717,
-    "wof:lastmodified": 1582917117,
+    "wof:lastmodified": 1717020254,
     "wof:name": "SWA277 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

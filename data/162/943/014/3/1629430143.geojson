@@ -2,6 +2,10 @@
   "id": 1629430143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-25",
+    "date:inception_upper": "2015-01-25",
     "edtf:cessation": "2015-01-25~",
     "edtf:inception": "2015-01-25T12:15:32",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150125-D-SWA-914",
     "sfomuseum:flight_number": [
-      "WN914", 
+      "WN914",
       "SWA914"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85922583, 
-      85688637, 
-      1629430143, 
-      102527513, 
-      102191575, 
-      85633793, 
+      1159396321,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629430143,
-    "wof:lastmodified": 1582914325,
+    "wof:lastmodified": 1717020274,
     "wof:name": "SWA914 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

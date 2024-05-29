@@ -2,6 +2,10 @@
   "id": 1646034997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-27",
+    "date:cessation_upper": "2015-09-27",
+    "date:inception_lower": "2015-09-01",
+    "date:inception_upper": "2015-09-30",
     "edtf:cessation": "2015-09-27T21:14:27",
     "edtf:inception": "2015-09-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20150927-A-UAL-2038",
     "sfomuseum:flight_number": [
-      "UA2038", 
+      "UA2038",
       "UAL2038"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      102527513, 
-      102191575, 
-      1646034997, 
+      85633793,
+      85922583,
+      85688637,
+      1159396321,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646034997,
-    "wof:lastmodified": 1582919318,
+    "wof:lastmodified": 1717020272,
     "wof:name": "UAL2038 (FLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

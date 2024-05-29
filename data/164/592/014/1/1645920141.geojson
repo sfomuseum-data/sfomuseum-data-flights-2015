@@ -2,6 +2,10 @@
   "id": 1645920141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-23",
+    "date:cessation_upper": "2015-08-23",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-23T22:13:30",
     "edtf:inception": "2015-08-23~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20150823-A-SWA-2010",
     "sfomuseum:flight_number": [
-      "WN2010", 
+      "WN2010",
       "SWA2010"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      1645920141, 
-      1159396321, 
-      85633793, 
-      102087579, 
-      85688637, 
+      85922583,
+      102527513,
+      1159396321,
+      85633793,
+      102087579,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645920141,
-    "wof:lastmodified": 1582918659,
+    "wof:lastmodified": 1717020264,
     "wof:name": "SWA2010 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1645780895,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-16",
+    "date:cessation_upper": "2015-07-16",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-16T13:32:33",
     "edtf:inception": "2015-07-16~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20150716-A-VRD-1355",
     "sfomuseum:flight_number": [
-      "VX1355", 
+      "VX1355",
       "VRD1355"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159396321, 
-      1645780895
+      102527513,
+      85633793,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582917828,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645780895,
-    "wof:lastmodified": 1582917828,
+    "wof:lastmodified": 1717020256,
     "wof:name": "VRD1355 (KBOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

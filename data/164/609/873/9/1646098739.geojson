@@ -2,6 +2,10 @@
   "id": 1646098739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-01",
+    "date:cessation_upper": "2015-10-31",
+    "date:inception_lower": "2015-10-16",
+    "date:inception_upper": "2015-10-16",
     "edtf:cessation": "2015-10-16~",
     "edtf:inception": "2015-10-16T10:57:31",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151016-D-AAL-403",
     "sfomuseum:flight_number": [
-      "AA403", 
+      "AA403",
       "AAL403"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85688637, 
-      102191575, 
-      1646098739, 
-      1159396321, 
-      102087579, 
+      85922583,
+      102527513,
+      85688637,
+      102191575,
+      1159396321,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646098739,
-    "wof:lastmodified": 1582919664,
+    "wof:lastmodified": 1717020278,
     "wof:name": "AAL403 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

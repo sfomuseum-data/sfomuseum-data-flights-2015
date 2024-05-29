@@ -2,6 +2,10 @@
   "id": 1645362569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-03-09",
+    "date:cessation_upper": "2015-03-09",
+    "date:inception_lower": "2015-03-01",
+    "date:inception_upper": "2015-03-31",
     "edtf:cessation": "2015-03-09T16:49:45",
     "edtf:inception": "2015-03-09~",
     "flysfo:airline": "5Y",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20150309-A-GTI-5422",
     "sfomuseum:flight_number": [
-      "5Y5422", 
+      "5Y5422",
       "GTI5422"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      1645362569, 
-      1159396321, 
-      85922583, 
-      102191575, 
+      85688637,
+      102527513,
+      102087579,
+      1159396321,
+      85922583,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645362569,
-    "wof:lastmodified": 1582915090,
+    "wof:lastmodified": 1717020238,
     "wof:name": "GTI5422 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

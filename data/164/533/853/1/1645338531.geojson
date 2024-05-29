@@ -2,6 +2,10 @@
   "id": 1645338531,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-03-01",
+    "date:cessation_upper": "2015-03-31",
+    "date:inception_lower": "2015-03-05",
+    "date:inception_upper": "2015-03-05",
     "edtf:cessation": "2015-03-05~",
     "edtf:inception": "2015-03-05T07:54:45",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150305-D-UAL-1171",
     "sfomuseum:flight_number": [
-      "UA1171", 
+      "UA1171",
       "UAL1171"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      85688637, 
-      1645338531, 
-      85922583, 
-      102527513, 
-      102191575, 
+      1159396321,
+      85633793,
+      85688637,
+      85922583,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645338531,
-    "wof:lastmodified": 1582914988,
+    "wof:lastmodified": 1717020238,
     "wof:name": "UAL1171 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

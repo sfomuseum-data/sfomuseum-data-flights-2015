@@ -2,6 +2,10 @@
   "id": 1628955223,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-02",
+    "date:inception_upper": "2015-01-02",
     "edtf:cessation": "2015-01-02~",
     "edtf:inception": "2015-01-02T19:25:23",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150102-D-SWA-9014",
     "sfomuseum:flight_number": [
-      "WN9014", 
+      "WN9014",
       "SWA9014"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      1628955223, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
+      85633793,
+      102191575,
+      85688637,
+      102527513,
+      102087579,
+      85922583,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628955223,
-    "wof:lastmodified": 1582913954,
+    "wof:lastmodified": 1717020286,
     "wof:name": "SWA9014 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

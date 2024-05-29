@@ -2,6 +2,10 @@
   "id": 1628997817,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-24",
+    "date:inception_upper": "2015-05-24",
     "edtf:cessation": "2015-05-24~",
     "edtf:inception": "2015-05-24T23:10:42",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150524-D-UAL-1756",
     "sfomuseum:flight_number": [
-      "UA1756", 
+      "UA1756",
       "UAL1756"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396321, 
-      85688637, 
-      102087579, 
-      1628997817, 
+      102191575,
+      85633793,
+      85922583,
+      1159396321,
+      85688637,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628997817,
-    "wof:lastmodified": 1582916834,
+    "wof:lastmodified": 1717020289,
     "wof:name": "UAL1756 (SFO-BWI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -76.67107, 
+    -122.370943,
+    37.61799,
+    -76.67107,
     39.181319
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-76.67107,39.181319]],"type":"MultiPoint"}

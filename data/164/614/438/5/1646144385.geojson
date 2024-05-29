@@ -2,6 +2,10 @@
   "id": 1646144385,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-29",
+    "date:cessation_upper": "2015-10-29",
+    "date:inception_lower": "2015-10-01",
+    "date:inception_upper": "2015-10-31",
     "edtf:cessation": "2015-10-29T18:38:39",
     "edtf:inception": "2015-10-29~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20151029-A-UAL-1523",
     "sfomuseum:flight_number": [
-      "UA1523", 
+      "UA1523",
       "UAL1523"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1646144385, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      102527513, 
+      102087579,
+      85633793,
+      85922583,
+      85688637,
+      1159396321,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646144385,
-    "wof:lastmodified": 1582919982,
+    "wof:lastmodified": 1717020277,
     "wof:name": "UAL1523 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

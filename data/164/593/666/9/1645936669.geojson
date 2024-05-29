@@ -2,6 +2,10 @@
   "id": 1645936669,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-28",
+    "date:cessation_upper": "2015-08-28",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-28T13:46:25",
     "edtf:inception": "2015-08-28~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525635,
     "sfomuseum:flight_id": "20150828-A-DAL-2621",
     "sfomuseum:flight_number": [
-      "DL2621", 
+      "DL2621",
       "DAL2621"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85922583, 
-      1159396321, 
-      85633793, 
-      102087579, 
-      1645936669
+      102527513,
+      85688637,
+      102191575,
+      85922583,
+      1159396321,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582918750,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645936669,
-    "wof:lastmodified": 1582918750,
+    "wof:lastmodified": 1717020268,
     "wof:name": "DAL2621 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}

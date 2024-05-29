@@ -2,6 +2,10 @@
   "id": 1661993419,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-12-04",
+    "date:cessation_upper": "2015-12-04",
+    "date:inception_lower": "2015-12-01",
+    "date:inception_upper": "2015-12-31",
     "edtf:cessation": "2015-12-04T23:48:06",
     "edtf:inception": "2015-12-04~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20151204-A-UAL-337",
     "sfomuseum:flight_number": [
-      "UA337", 
+      "UA337",
       "UAL337"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      1159396321, 
-      85688637, 
-      102087579, 
-      1661993419, 
+      102527513,
+      102191575,
+      85633793,
+      1159396321,
+      85688637,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1661993419,
-    "wof:lastmodified": 1582920984,
+    "wof:lastmodified": 1717020285,
     "wof:name": "UAL337 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662021391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-12-01",
+    "date:cessation_upper": "2015-12-31",
+    "date:inception_lower": "2015-12-18",
+    "date:inception_upper": "2015-12-18",
     "edtf:cessation": "2015-12-18~",
     "edtf:inception": "2015-12-18T07:03:38",
     "flysfo:airline": "AC",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151218-D-ACA-7064",
     "sfomuseum:flight_number": [
-      "AC7064", 
+      "AC7064",
       "ACA7064"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      85633793, 
-      1159396321, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1662021391
+      85688637,
+      102527513,
+      85633793,
+      1159396321,
+      85922583,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582921338,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662021391,
-    "wof:lastmodified": 1582921338,
+    "wof:lastmodified": 1717020233,
     "wof:name": "ACA7064 (SFO-CYYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -79.628342, 
+    -122.370943,
+    37.61799,
+    -79.628342,
     43.676352
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}

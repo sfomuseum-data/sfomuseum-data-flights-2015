@@ -2,6 +2,10 @@
   "id": 1645400525,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-03-21",
+    "date:cessation_upper": "2015-03-21",
+    "date:inception_lower": "2015-03-01",
+    "date:inception_upper": "2015-03-31",
     "edtf:cessation": "2015-03-21T23:15:37",
     "edtf:inception": "2015-03-21~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533575,
     "sfomuseum:flight_id": "20150321-A-SWA-8500",
     "sfomuseum:flight_number": [
-      "WN8500", 
+      "WN8500",
       "SWA8500"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1645400525, 
-      1159396321, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      85922583, 
+      1159396321,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645400525,
-    "wof:lastmodified": 1582915368,
+    "wof:lastmodified": 1717020239,
     "wof:name": "SWA8500 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.059934, 
-    -117.587749, 
+    -122.370943,
+    34.059934,
+    -117.587749,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.587749,34.059934],[-122.370943,37.61799]],"type":"MultiPoint"}

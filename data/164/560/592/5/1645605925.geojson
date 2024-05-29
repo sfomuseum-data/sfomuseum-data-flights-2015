@@ -2,6 +2,10 @@
   "id": 1645605925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-26",
+    "date:cessation_upper": "2015-05-26",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-26T16:41:49",
     "edtf:inception": "2015-05-26~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20150526-A-SWA-745",
     "sfomuseum:flight_number": [
-      "WN745", 
+      "WN745",
       "SWA745"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      102087579, 
-      1645605925
+      1159396321,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582916866,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645605925,
-    "wof:lastmodified": 1582916866,
+    "wof:lastmodified": 1717020250,
     "wof:name": "SWA745 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

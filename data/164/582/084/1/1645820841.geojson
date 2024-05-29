@@ -2,6 +2,10 @@
   "id": 1645820841,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-27",
+    "date:cessation_upper": "2015-07-27",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-27T16:14:58",
     "edtf:inception": "2015-07-27~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20150727-A-UAL-1982",
     "sfomuseum:flight_number": [
-      "UA1982", 
+      "UA1982",
       "UAL1982"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396321, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1645820841
+      102527513,
+      1159396321,
+      85922583,
+      85688637,
+      102191575,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582918061,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645820841,
-    "wof:lastmodified": 1582918061,
+    "wof:lastmodified": 1717020259,
     "wof:name": "UAL1982 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

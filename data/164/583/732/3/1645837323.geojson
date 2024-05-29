@@ -2,6 +2,10 @@
   "id": 1645837323,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-01",
+    "date:cessation_upper": "2015-08-31",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-01",
     "edtf:cessation": "2015-08-01~",
     "edtf:inception": "2015-08-01T05:51:07",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150801-D-SWA-53",
     "sfomuseum:flight_number": [
-      "WN53", 
+      "WN53",
       "SWA53"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85688637, 
-      1159396321, 
-      1645837323, 
-      85633793, 
-      102087579, 
+      102527513,
+      102191575,
+      85688637,
+      1159396321,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645837323,
-    "wof:lastmodified": 1582918184,
+    "wof:lastmodified": 1717020263,
     "wof:name": "SWA53 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1646162575,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-04",
+    "date:cessation_upper": "2015-11-04",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-04T12:06:52",
     "edtf:inception": "2015-11-04~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20151104-A-UAL-809",
     "sfomuseum:flight_number": [
-      "UA809", 
+      "UA809",
       "UAL809"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      1646162575, 
-      85922583, 
-      85633793, 
-      1159396321, 
-      85688637, 
+      102087579,
+      102527513,
+      85922583,
+      85633793,
+      1159396321,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646162575,
-    "wof:lastmodified": 1582920086,
+    "wof:lastmodified": 1717020277,
     "wof:name": "UAL809 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662023639,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-12-01",
+    "date:cessation_upper": "2015-12-31",
+    "date:inception_lower": "2015-12-19",
+    "date:inception_upper": "2015-12-19",
     "edtf:cessation": "2015-12-19~",
     "edtf:inception": "2015-12-19T14:10:44",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151219-D-SWA-2172",
     "sfomuseum:flight_number": [
-      "WN2172", 
+      "WN2172",
       "SWA2172"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1662023639, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159396321, 
-      85922583, 
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      1159396321,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662023639,
-    "wof:lastmodified": 1582921379,
+    "wof:lastmodified": 1717020234,
     "wof:name": "SWA2172 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

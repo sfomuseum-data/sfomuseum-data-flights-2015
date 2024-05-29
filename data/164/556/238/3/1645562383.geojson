@@ -2,6 +2,10 @@
   "id": 1645562383,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-13",
+    "date:cessation_upper": "2015-05-13",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-13T02:41:14",
     "edtf:inception": "2015-05-13~",
     "flysfo:airline": "SY",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531365,
     "sfomuseum:flight_id": "20150513-A-SCX-8901",
     "sfomuseum:flight_number": [
-      "SY8901", 
+      "SY8901",
       "SCX8901"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102527513, 
-      1159396321, 
-      102087579, 
-      85688637, 
-      102191575, 
-      1645562383
+      85633793,
+      85922583,
+      102527513,
+      1159396321,
+      102087579,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582916560,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645562383,
-    "wof:lastmodified": 1582916560,
+    "wof:lastmodified": 1717020248,
     "wof:name": "SCX8901 (NKT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.904856, 
-    -76.888579, 
+    -122.370943,
+    34.904856,
+    -76.888579,
     37.61799
   ],
   "geometry": {"coordinates":[[-76.888579,34.904856],[-122.370943,37.61799]],"type":"MultiPoint"}

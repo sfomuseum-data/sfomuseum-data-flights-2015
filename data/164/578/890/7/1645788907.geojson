@@ -2,6 +2,10 @@
   "id": 1645788907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-18",
+    "date:cessation_upper": "2015-07-18",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-18T19:15:13",
     "edtf:inception": "2015-07-18~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536481,
     "sfomuseum:flight_id": "20150718-A-UAL-655",
     "sfomuseum:flight_number": [
-      "UA655", 
+      "UA655",
       "UAL655"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      1159396321, 
-      102191575, 
-      102087579, 
-      1645788907, 
+      85688637,
+      85633793,
+      85922583,
+      1159396321,
+      102191575,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645788907,
-    "wof:lastmodified": 1582917875,
+    "wof:lastmodified": 1717020259,
     "wof:name": "UAL655 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1629360379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-01",
+    "date:inception_upper": "2015-01-01",
     "edtf:cessation": "2015-01-01~",
     "edtf:inception": "2015-01-01T11:21:16",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150101-D-AWE-403",
     "sfomuseum:flight_number": [
-      "HP403", 
+      "HP403",
       "AWE403"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159396321, 
-      85633793, 
-      85922583, 
-      1629360379
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      1159396321,
+      85633793,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582913924,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629360379,
-    "wof:lastmodified": 1582913924,
+    "wof:lastmodified": 1717020242,
     "wof:name": "AWE403 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

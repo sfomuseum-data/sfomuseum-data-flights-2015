@@ -2,6 +2,10 @@
   "id": 1645940293,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-29",
+    "date:cessation_upper": "2015-08-29",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-29T14:36:14",
     "edtf:inception": "2015-08-29~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20150829-A-UAL-720",
     "sfomuseum:flight_number": [
-      "UA720", 
+      "UA720",
       "UAL720"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85633793, 
-      1159396321, 
-      102087579, 
-      1645940293, 
-      85688637, 
+      85922583,
+      102527513,
+      85633793,
+      1159396321,
+      102087579,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645940293,
-    "wof:lastmodified": 1582918771,
+    "wof:lastmodified": 1717020265,
     "wof:name": "UAL720 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

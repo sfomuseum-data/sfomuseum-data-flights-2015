@@ -2,6 +2,10 @@
   "id": 1645315189,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-01",
+    "date:cessation_upper": "2015-02-28",
+    "date:inception_lower": "2015-02-28",
+    "date:inception_upper": "2015-02-28",
     "edtf:cessation": "2015-02-28~",
     "edtf:inception": "2015-02-28T15:40:43",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150228-D-UAL-112T",
     "sfomuseum:flight_number": [
-      "UA112T", 
+      "UA112T",
       "UAL112T"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      1645315189, 
-      1159396321, 
-      102527513, 
-      85688637, 
-      102087579, 
+      85922583,
+      102191575,
+      1159396321,
+      102527513,
+      85688637,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645315189,
-    "wof:lastmodified": 1582914907,
+    "wof:lastmodified": 1717020237,
     "wof:name": "UAL112T (SFO-RDU)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.876323, 
-    -78.790399, 
+    -122.370943,
+    35.876323,
+    -78.790399,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-78.790399,35.876323]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1629001103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-04",
+    "date:cessation_upper": "2015-06-04",
+    "date:inception_lower": "2015-06-01",
+    "date:inception_upper": "2015-06-30",
     "edtf:cessation": "2015-06-04T15:37:59",
     "edtf:inception": "2015-06-04~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20150604-A-DAL-2349",
     "sfomuseum:flight_number": [
-      "DL2349", 
+      "DL2349",
       "DAL2349"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102527513, 
-      85688637, 
-      85922583, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1629001103
+      1159396321,
+      102527513,
+      85688637,
+      85922583,
+      102191575,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582917023,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629001103,
-    "wof:lastmodified": 1582917023,
+    "wof:lastmodified": 1717020286,
     "wof:name": "DAL2349 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

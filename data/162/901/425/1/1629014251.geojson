@@ -2,6 +2,10 @@
   "id": 1629014251,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-11",
+    "date:cessation_upper": "2015-07-11",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-11T23:42:51",
     "edtf:inception": "2015-07-11~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20150711-A-ASA-300",
     "sfomuseum:flight_number": [
-      "AS300", 
+      "AS300",
       "ASA300"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      1629014251, 
-      85633793, 
-      85922583, 
-      1159396321, 
-      102087579, 
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      1159396321,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629014251,
-    "wof:lastmodified": 1582917747,
+    "wof:lastmodified": 1717020288,
     "wof:name": "ASA300 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

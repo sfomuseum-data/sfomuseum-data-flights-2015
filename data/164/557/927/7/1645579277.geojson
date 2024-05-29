@@ -2,6 +2,10 @@
   "id": 1645579277,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-18",
+    "date:cessation_upper": "2015-05-18",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-18T08:55:01",
     "edtf:inception": "2015-05-18~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102551065,
     "sfomuseum:flight_id": "20150518-A-UAL-8",
     "sfomuseum:flight_number": [
-      "UA8", 
+      "UA8",
       "UAL8"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1645579277, 
-      85633793, 
-      85922583, 
-      102191575, 
-      1159396321, 
-      85688637, 
+      102087579,
+      85633793,
+      85922583,
+      102191575,
+      1159396321,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645579277,
-    "wof:lastmodified": 1582916708,
+    "wof:lastmodified": 1717020251,
     "wof:name": "UAL8 (CTU-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.579342, 
-    103.956661, 
+    -122.370943,
+    30.579342,
+    103.956661,
     37.61799
   ],
   "geometry": {"coordinates":[[103.956661,30.579342],[-122.370943,37.61799]],"type":"MultiPoint"}

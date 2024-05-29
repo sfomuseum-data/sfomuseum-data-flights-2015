@@ -2,6 +2,10 @@
   "id": 1645717771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-01",
+    "date:cessation_upper": "2015-06-30",
+    "date:inception_lower": "2015-06-28",
+    "date:inception_upper": "2015-06-28",
     "edtf:cessation": "2015-06-28~",
     "edtf:inception": "2015-06-28T22:34:33",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150628-D-SWA-50",
     "sfomuseum:flight_number": [
-      "WN50", 
+      "WN50",
       "SWA50"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396321, 
-      102191575, 
-      102527513, 
-      85633793, 
-      85688637, 
-      85922583, 
-      1645717771
+      102087579,
+      1159396321,
+      102191575,
+      102527513,
+      85633793,
+      85688637,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582917504,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645717771,
-    "wof:lastmodified": 1582917504,
+    "wof:lastmodified": 1717020255,
     "wof:name": "SWA50 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

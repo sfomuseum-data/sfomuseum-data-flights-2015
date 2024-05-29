@@ -2,6 +2,10 @@
   "id": 1645728099,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-01",
+    "date:cessation_upper": "2015-07-31",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-01",
     "edtf:cessation": "2015-07-01~",
     "edtf:inception": "2015-07-01T20:46:56",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150701-D-AAL-635",
     "sfomuseum:flight_number": [
-      "AA635", 
+      "AA635",
       "AAL635"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85922583, 
-      1645728099, 
-      85688637, 
-      85633793, 
-      1159396321, 
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      85633793,
+      1159396321,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645728099,
-    "wof:lastmodified": 1582917560,
+    "wof:lastmodified": 1717020257,
     "wof:name": "AAL635 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

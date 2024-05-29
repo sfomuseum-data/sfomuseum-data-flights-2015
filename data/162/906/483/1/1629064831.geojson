@@ -2,6 +2,10 @@
   "id": 1629064831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-12-06",
+    "date:cessation_upper": "2015-12-06",
+    "date:inception_lower": "2015-12-01",
+    "date:inception_upper": "2015-12-31",
     "edtf:cessation": "2015-12-06T21:14:59",
     "edtf:inception": "2015-12-06~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20151206-A-AAL-356",
     "sfomuseum:flight_number": [
-      "AA356", 
+      "AA356",
       "AAL356"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1629064831, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159396321, 
-      102191575, 
-      102087579, 
+      85688637,
+      102527513,
+      85633793,
+      1159396321,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629064831,
-    "wof:lastmodified": 1582921022,
+    "wof:lastmodified": 1717020238,
     "wof:name": "AAL356 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

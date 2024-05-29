@@ -2,6 +2,10 @@
   "id": 1629406465,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-16",
+    "date:inception_upper": "2015-01-16",
     "edtf:cessation": "2015-01-16~",
     "edtf:inception": "2015-01-16T20:42:59",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150116-D-UAL-1699",
     "sfomuseum:flight_number": [
-      "UA1699", 
+      "UA1699",
       "UAL1699"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      102087579, 
-      1629406465, 
-      85633793, 
-      102527513, 
-      85688637, 
+      102191575,
+      85922583,
+      102087579,
+      85633793,
+      102527513,
+      85688637,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629406465,
-    "wof:lastmodified": 1582914188,
+    "wof:lastmodified": 1717020261,
     "wof:name": "UAL1699 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

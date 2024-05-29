@@ -2,6 +2,10 @@
   "id": 1629397635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-13",
+    "date:inception_upper": "2015-01-13",
     "edtf:cessation": "2015-01-13~",
     "edtf:inception": "2015-01-13T20:40:17",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150113-D-UAL-2172",
     "sfomuseum:flight_number": [
-      "UA2172", 
+      "UA2172",
       "UAL2172"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396321, 
-      102191575, 
-      102527513, 
-      1629397635, 
-      85922583, 
-      85688637, 
+      102087579,
+      1159396321,
+      102191575,
+      102527513,
+      85922583,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629397635,
-    "wof:lastmodified": 1582914137,
+    "wof:lastmodified": 1717020257,
     "wof:name": "UAL2172 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

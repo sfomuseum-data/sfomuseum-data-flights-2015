@@ -2,6 +2,10 @@
   "id": 1629466933,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-01",
+    "date:cessation_upper": "2015-02-28",
+    "date:inception_lower": "2015-02-05",
+    "date:inception_upper": "2015-02-05",
     "edtf:cessation": "2015-02-05~",
     "edtf:inception": "2015-02-05T23:18:11",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150205-D-UAL-1646",
     "sfomuseum:flight_number": [
-      "UA1646", 
+      "UA1646",
       "UAL1646"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1629466933, 
-      85688637, 
-      85633793, 
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      85633793,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629466933,
-    "wof:lastmodified": 1582914527,
+    "wof:lastmodified": 1717020290,
     "wof:name": "UAL1646 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

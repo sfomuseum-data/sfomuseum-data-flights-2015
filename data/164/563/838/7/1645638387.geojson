@@ -2,6 +2,10 @@
   "id": 1645638387,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-05",
+    "date:cessation_upper": "2015-06-05",
+    "date:inception_lower": "2015-06-01",
+    "date:inception_upper": "2015-06-30",
     "edtf:cessation": "2015-06-05T23:52:53",
     "edtf:inception": "2015-06-05~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20150605-A-SWA-902",
     "sfomuseum:flight_number": [
-      "WN902", 
+      "WN902",
       "SWA902"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1645638387, 
-      102191575, 
-      85922583, 
-      1159396321, 
-      85688637, 
-      85633793, 
+      102527513,
+      102191575,
+      85922583,
+      1159396321,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645638387,
-    "wof:lastmodified": 1582917052,
+    "wof:lastmodified": 1717020253,
     "wof:name": "SWA902 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

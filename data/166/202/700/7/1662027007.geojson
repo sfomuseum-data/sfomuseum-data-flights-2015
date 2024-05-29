@@ -2,6 +2,10 @@
   "id": 1662027007,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-12-21",
+    "date:cessation_upper": "2015-12-21",
+    "date:inception_lower": "2015-12-01",
+    "date:inception_upper": "2015-12-31",
     "edtf:cessation": "2015-12-21T16:06:50",
     "edtf:inception": "2015-12-21~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20151221-A-SWA-2099",
     "sfomuseum:flight_number": [
-      "WN2099", 
+      "WN2099",
       "SWA2099"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85688637, 
-      1662027007, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
+      1159396321,
+      85688637,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662027007,
-    "wof:lastmodified": 1582921437,
+    "wof:lastmodified": 1717020237,
     "wof:name": "SWA2099 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

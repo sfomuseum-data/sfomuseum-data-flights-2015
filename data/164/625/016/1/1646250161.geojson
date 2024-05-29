@@ -2,6 +2,10 @@
   "id": 1646250161,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-30",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-30~",
     "edtf:inception": "2015-11-30T18:42:27",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151130-D-VRD-918",
     "sfomuseum:flight_number": [
-      "VX918", 
+      "VX918",
       "VRD918"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396321, 
-      102087579, 
-      1646250161, 
-      102527513, 
-      102191575, 
-      85688637, 
+      85922583,
+      1159396321,
+      102087579,
+      102527513,
+      102191575,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646250161,
-    "wof:lastmodified": 1582920854,
+    "wof:lastmodified": 1717020281,
     "wof:name": "VRD918 (SFO-KLAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

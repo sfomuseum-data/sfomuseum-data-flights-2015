@@ -2,6 +2,10 @@
   "id": 1628962213,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-27",
+    "date:inception_upper": "2015-01-27",
     "edtf:cessation": "2015-01-27~",
     "edtf:inception": "2015-01-27T06:10:38",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150127-D-FFT-1056",
     "sfomuseum:flight_number": [
-      "F91056", 
+      "F91056",
       "FFT1056"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396321, 
-      85688637, 
-      1628962213, 
-      85922583, 
-      102527513, 
-      102191575, 
+      102087579,
+      1159396321,
+      85688637,
+      85922583,
+      102527513,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628962213,
-    "wof:lastmodified": 1582914353,
+    "wof:lastmodified": 1717020286,
     "wof:name": "FFT1056 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

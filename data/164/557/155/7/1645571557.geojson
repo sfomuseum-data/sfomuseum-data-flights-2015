@@ -2,6 +2,10 @@
   "id": 1645571557,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-15",
+    "date:cessation_upper": "2015-05-15",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-15T18:59:46",
     "edtf:inception": "2015-05-15~",
     "flysfo:airline": "PR",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102553219,
     "sfomuseum:flight_id": "20150515-A-PAL-104",
     "sfomuseum:flight_number": [
-      "PR104", 
+      "PR104",
       "PAL104"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102191575, 
-      1645571557, 
-      85922583, 
-      85633793, 
-      102087579, 
-      85688637, 
+      1159396321,
+      102191575,
+      85922583,
+      85633793,
+      102087579,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645571557,
-    "wof:lastmodified": 1582916661,
+    "wof:lastmodified": 1717020248,
     "wof:name": "PAL104 (MNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    14.517768, 
-    121.015152, 
+    -122.370943,
+    14.517768,
+    121.015152,
     37.61799
   ],
   "geometry": {"coordinates":[[121.015152,14.517768],[-122.370943,37.61799]],"type":"MultiPoint"}

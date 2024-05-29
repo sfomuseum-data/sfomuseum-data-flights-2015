@@ -2,6 +2,10 @@
   "id": 1628981565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-04-03",
+    "date:cessation_upper": "2015-04-03",
+    "date:inception_lower": "2015-04-01",
+    "date:inception_upper": "2015-04-30",
     "edtf:cessation": "2015-04-03T13:50:28",
     "edtf:inception": "2015-04-03~",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20150403-A-AWE-672",
     "sfomuseum:flight_number": [
-      "HP672", 
+      "HP672",
       "AWE672"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159396321, 
-      102527513, 
-      1628981565, 
+      85633793,
+      102191575,
+      102087579,
+      85922583,
+      1159396321,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628981565,
-    "wof:lastmodified": 1582915642,
+    "wof:lastmodified": 1717020286,
     "wof:name": "AWE672 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

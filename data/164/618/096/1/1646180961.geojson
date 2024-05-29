@@ -2,6 +2,10 @@
   "id": 1646180961,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-09",
+    "date:inception_upper": "2015-11-09",
     "edtf:cessation": "2015-11-09~",
     "edtf:inception": "2015-11-09T20:22:55",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151109-D-AAL-9615",
     "sfomuseum:flight_number": [
-      "AA9615", 
+      "AA9615",
       "AAL9615"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159396321, 
-      102191575, 
-      1646180961
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      1159396321,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582920209,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646180961,
-    "wof:lastmodified": 1582920209,
+    "wof:lastmodified": 1717020279,
     "wof:name": "AAL9615 (SFO-KPHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

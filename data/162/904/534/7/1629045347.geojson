@@ -2,6 +2,10 @@
   "id": 1629045347,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-01",
+    "date:cessation_upper": "2015-10-31",
+    "date:inception_lower": "2015-10-09",
+    "date:inception_upper": "2015-10-09",
     "edtf:cessation": "2015-10-09~",
     "edtf:inception": "2015-10-09T16:03:24",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151009-D-ACA-784",
     "sfomuseum:flight_number": [
-      "AC784", 
+      "AC784",
       "ACA784"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      1629045347, 
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629045347,
-    "wof:lastmodified": 1582919544,
+    "wof:lastmodified": 1717020291,
     "wof:name": "ACA784 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -79.628342, 
+    -122.370943,
+    37.61799,
+    -79.628342,
     43.676352
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}

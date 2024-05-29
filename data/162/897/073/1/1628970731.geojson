@@ -2,6 +2,10 @@
   "id": 1628970731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-01",
+    "date:cessation_upper": "2015-02-28",
+    "date:inception_lower": "2015-02-26",
+    "date:inception_upper": "2015-02-26",
     "edtf:cessation": "2015-02-26~",
     "edtf:inception": "2015-02-26T11:07:19",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150226-D-UAL-1732",
     "sfomuseum:flight_number": [
-      "UA1732", 
+      "UA1732",
       "UAL1732"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1628970731, 
-      1159396321, 
-      102191575, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102087579, 
+      1159396321,
+      102191575,
+      102527513,
+      85922583,
+      85688637,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628970731,
-    "wof:lastmodified": 1582914861,
+    "wof:lastmodified": 1717020286,
     "wof:name": "UAL1732 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

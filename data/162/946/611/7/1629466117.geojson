@@ -2,6 +2,10 @@
   "id": 1629466117,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-05",
+    "date:cessation_upper": "2015-02-05",
+    "date:inception_lower": "2015-02-01",
+    "date:inception_upper": "2015-02-28",
     "edtf:cessation": "2015-02-05T19:40:44",
     "edtf:inception": "2015-02-05~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536481,
     "sfomuseum:flight_id": "20150205-A-ASA-223",
     "sfomuseum:flight_number": [
-      "AS223", 
+      "AS223",
       "ASA223"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1629466117, 
-      102527513, 
-      85922583, 
+      1159396321,
+      85633793,
+      102191575,
+      102087579,
+      102527513,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629466117,
-    "wof:lastmodified": 1582914523,
+    "wof:lastmodified": 1717020289,
     "wof:name": "ASA223 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}

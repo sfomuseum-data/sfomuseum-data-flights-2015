@@ -2,6 +2,10 @@
   "id": 1629438679,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-28",
+    "date:inception_upper": "2015-01-28",
     "edtf:cessation": "2015-01-28~",
     "edtf:inception": "2015-01-28T16:07:20",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150128-D-UAL-1028",
     "sfomuseum:flight_number": [
-      "UA1028", 
+      "UA1028",
       "UAL1028"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85688637, 
-      85922583, 
-      85633793, 
-      102527513, 
-      1159396321, 
-      1629438679
+      102191575,
+      102087579,
+      85688637,
+      85922583,
+      85633793,
+      102527513,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582914377,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629438679,
-    "wof:lastmodified": 1582914377,
+    "wof:lastmodified": 1717020278,
     "wof:name": "UAL1028 (SFO-RDU)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.876323, 
-    -78.790399, 
+    -122.370943,
+    35.876323,
+    -78.790399,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-78.790399,35.876323]],"type":"MultiPoint"}

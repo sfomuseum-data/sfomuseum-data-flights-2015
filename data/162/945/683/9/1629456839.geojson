@@ -2,6 +2,10 @@
   "id": 1629456839,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-01",
+    "date:cessation_upper": "2015-02-28",
+    "date:inception_lower": "2015-02-04",
+    "date:inception_upper": "2015-02-04",
     "edtf:cessation": "2015-02-04~",
     "edtf:inception": "2015-02-04T09:39:34",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150204-D-AAL-1656",
     "sfomuseum:flight_number": [
-      "AA1656", 
+      "AA1656",
       "AAL1656"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1629456839, 
-      85922583, 
-      85633793, 
-      102087579, 
-      1159396321, 
-      102191575, 
+      85688637,
+      85922583,
+      85633793,
+      102087579,
+      1159396321,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629456839,
-    "wof:lastmodified": 1582914493,
+    "wof:lastmodified": 1717020287,
     "wof:name": "AAL1656 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1645385831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-03-01",
+    "date:cessation_upper": "2015-03-31",
+    "date:inception_lower": "2015-03-17",
+    "date:inception_upper": "2015-03-17",
     "edtf:cessation": "2015-03-17~",
     "edtf:inception": "2015-03-17T07:37:14",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150317-D-VRD-202",
     "sfomuseum:flight_number": [
-      "VX202", 
+      "VX202",
       "VRD202"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1645385831, 
-      85922583, 
-      102527513, 
-      85688637, 
-      85633793, 
-      102191575, 
+      102087579,
+      85922583,
+      102527513,
+      85688637,
+      85633793,
+      102191575,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645385831,
-    "wof:lastmodified": 1582915264,
+    "wof:lastmodified": 1717020241,
     "wof:name": "VRD202 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

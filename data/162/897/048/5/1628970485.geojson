@@ -2,6 +2,10 @@
   "id": 1628970485,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-01",
+    "date:cessation_upper": "2015-02-28",
+    "date:inception_lower": "2015-02-25",
+    "date:inception_upper": "2015-02-25",
     "edtf:cessation": "2015-02-25~",
     "edtf:inception": "2015-02-25T13:08:02",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150225-D-UAL-1544",
     "sfomuseum:flight_number": [
-      "UA1544", 
+      "UA1544",
       "UAL1544"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102527513, 
-      85922583, 
-      85633793, 
-      102087579, 
-      1628970485, 
-      85688637, 
+      102191575,
+      102527513,
+      85922583,
+      85633793,
+      102087579,
+      85688637,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628970485,
-    "wof:lastmodified": 1582914847,
+    "wof:lastmodified": 1717020286,
     "wof:name": "UAL1544 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

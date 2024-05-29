@@ -2,6 +2,10 @@
   "id": 1645905963,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-01",
+    "date:cessation_upper": "2015-08-31",
+    "date:inception_lower": "2015-08-19",
+    "date:inception_upper": "2015-08-19",
     "edtf:cessation": "2015-08-19~",
     "edtf:inception": "2015-08-19T20:07:41",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150819-D-UAL-614",
     "sfomuseum:flight_number": [
-      "UA614", 
+      "UA614",
       "UAL614"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85688637, 
-      1159396321, 
-      85922583, 
-      1645905963, 
-      85633793, 
+      102527513,
+      102191575,
+      85688637,
+      1159396321,
+      85922583,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645905963,
-    "wof:lastmodified": 1582918583,
+    "wof:lastmodified": 1717020265,
     "wof:name": "UAL614 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

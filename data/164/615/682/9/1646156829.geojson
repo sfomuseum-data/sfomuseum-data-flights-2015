@@ -2,6 +2,10 @@
   "id": 1646156829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-02",
+    "date:inception_upper": "2015-11-02",
     "edtf:cessation": "2015-11-02~",
     "edtf:inception": "2015-11-02T16:51:28",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151102-D-AAL-477",
     "sfomuseum:flight_number": [
-      "AA477", 
+      "AA477",
       "AAL477"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102087579, 
-      102527513, 
-      1646156829, 
-      85922583, 
-      1159396321, 
+      85633793,
+      85688637,
+      102087579,
+      102527513,
+      85922583,
+      1159396321,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646156829,
-    "wof:lastmodified": 1582920053,
+    "wof:lastmodified": 1717020279,
     "wof:name": "AAL477 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

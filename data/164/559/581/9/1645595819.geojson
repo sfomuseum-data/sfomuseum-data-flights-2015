@@ -2,6 +2,10 @@
   "id": 1645595819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-23",
+    "date:cessation_upper": "2015-05-23",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-23T09:11:39",
     "edtf:inception": "2015-05-23~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20150523-A-UAL-665",
     "sfomuseum:flight_number": [
-      "UA665", 
+      "UA665",
       "UAL665"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      1645595819, 
-      102527513, 
-      102087579, 
-      85633793, 
-      85688637, 
+      85922583,
+      102191575,
+      102527513,
+      102087579,
+      85633793,
+      85688637,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645595819,
-    "wof:lastmodified": 1582916806,
+    "wof:lastmodified": 1717020249,
     "wof:name": "UAL665 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

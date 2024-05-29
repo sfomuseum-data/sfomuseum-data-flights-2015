@@ -2,6 +2,10 @@
   "id": 1629473513,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-07",
+    "date:cessation_upper": "2015-02-07",
+    "date:inception_lower": "2015-02-01",
+    "date:inception_upper": "2015-02-28",
     "edtf:cessation": "2015-02-07T11:06:54",
     "edtf:inception": "2015-02-07~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532159,
     "sfomuseum:flight_id": "20150207-A-UAL-1662",
     "sfomuseum:flight_number": [
-      "UA1662", 
+      "UA1662",
       "UAL1662"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1159396321, 
-      1629473513
+      85633793,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      102087579,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582914549,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629473513,
-    "wof:lastmodified": 1582914549,
+    "wof:lastmodified": 1717020292,
     "wof:name": "UAL1662 (DCA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.041643, 
+    -122.370943,
+    37.61799,
+    -77.041643,
     38.850639
   ],
   "geometry": {"coordinates":[[-77.041643,38.850639],[-122.370943,37.61799]],"type":"MultiPoint"}

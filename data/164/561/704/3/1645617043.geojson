@@ -2,6 +2,10 @@
   "id": 1645617043,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-30",
+    "date:cessation_upper": "2015-05-30",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-30T11:37:06",
     "edtf:inception": "2015-05-30~",
     "flysfo:airline": "OZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556451,
     "sfomuseum:flight_id": "20150530-A-AAR-212",
     "sfomuseum:flight_number": [
-      "OZ212", 
+      "OZ212",
       "AAR212"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102527513, 
-      1645617043, 
-      85922583, 
-      85688637, 
-      1159396321, 
+      102191575,
+      85633793,
+      102527513,
+      85922583,
+      85688637,
+      1159396321,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645617043,
-    "wof:lastmodified": 1582916930,
+    "wof:lastmodified": 1717020250,
     "wof:name": "AAR212 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[126.661632,37.453966],[-122.370943,37.61799]],"type":"MultiPoint"}

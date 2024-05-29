@@ -2,6 +2,10 @@
   "id": 1646138743,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-01",
+    "date:cessation_upper": "2015-10-31",
+    "date:inception_lower": "2015-10-28",
+    "date:inception_upper": "2015-10-28",
     "edtf:cessation": "2015-10-28~",
     "edtf:inception": "2015-10-28T07:55:24",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151028-D-UAL-1177",
     "sfomuseum:flight_number": [
-      "UA1177", 
+      "UA1177",
       "UAL1177"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159396321, 
-      85633793, 
-      85688637, 
-      1646138743
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      1159396321,
+      85633793,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582919945,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646138743,
-    "wof:lastmodified": 1582919945,
+    "wof:lastmodified": 1717020280,
     "wof:name": "UAL1177 (SFO-KDFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

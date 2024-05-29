@@ -2,6 +2,10 @@
   "id": 1646247261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-29",
+    "date:inception_upper": "2015-11-29",
     "edtf:cessation": "2015-11-29~",
     "edtf:inception": "2015-11-29T22:20:11",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151129-D-VRD-182",
     "sfomuseum:flight_number": [
-      "VX182", 
+      "VX182",
       "VRD182"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      102191575, 
-      1646247261, 
-      85922583, 
-      102527513, 
-      1159396321, 
+      102087579,
+      85688637,
+      102191575,
+      85922583,
+      102527513,
+      1159396321,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646247261,
-    "wof:lastmodified": 1582920833,
+    "wof:lastmodified": 1717020284,
     "wof:name": "VRD182 (SFO-KEWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1629046189,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-01",
+    "date:cessation_upper": "2015-10-31",
+    "date:inception_lower": "2015-10-12",
+    "date:inception_upper": "2015-10-12",
     "edtf:cessation": "2015-10-12~",
     "edtf:inception": "2015-10-12T08:48:47",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151012-D-UAL-1922",
     "sfomuseum:flight_number": [
-      "UA1922", 
+      "UA1922",
       "UAL1922"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1159396321, 
-      1629046189, 
-      85922583, 
-      85633793, 
-      102527513, 
+      102087579,
+      85688637,
+      1159396321,
+      85922583,
+      85633793,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629046189,
-    "wof:lastmodified": 1582919591,
+    "wof:lastmodified": 1717020292,
     "wof:name": "UAL1922 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

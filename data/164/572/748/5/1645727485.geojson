@@ -2,6 +2,10 @@
   "id": 1645727485,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-01",
+    "date:cessation_upper": "2015-07-01",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-01T17:31:34",
     "edtf:inception": "2015-07-01~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536481,
     "sfomuseum:flight_id": "20150701-A-UAL-806",
     "sfomuseum:flight_number": [
-      "UA806", 
+      "UA806",
       "UAL806"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1159396321, 
-      1645727485
+      85633793,
+      102087579,
+      85688637,
+      85922583,
+      102527513,
+      102191575,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582917556,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645727485,
-    "wof:lastmodified": 1582917556,
+    "wof:lastmodified": 1717020257,
     "wof:name": "UAL806 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}

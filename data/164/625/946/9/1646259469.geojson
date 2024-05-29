@@ -2,6 +2,10 @@
   "id": 1646259469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-12-03",
+    "date:cessation_upper": "2015-12-03",
+    "date:inception_lower": "2015-12-01",
+    "date:inception_upper": "2015-12-31",
     "edtf:cessation": "2015-12-03T14:09:13",
     "edtf:inception": "2015-12-03~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20151203-A-JBU-789",
     "sfomuseum:flight_number": [
-      "B6789", 
+      "B6789",
       "JBU789"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1646259469, 
-      102191575, 
-      102087579, 
-      85688637, 
-      85633793, 
-      85922583, 
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
+      85922583,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646259469,
-    "wof:lastmodified": 1582920934,
+    "wof:lastmodified": 1717020286,
     "wof:name": "JBU789 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

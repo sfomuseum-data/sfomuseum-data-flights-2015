@@ -2,6 +2,10 @@
   "id": 1645725781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-01",
+    "date:cessation_upper": "2015-07-31",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-01",
     "edtf:cessation": "2015-07-01~",
     "edtf:inception": "2015-07-01T09:03:18",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150701-D-UAL-325",
     "sfomuseum:flight_number": [
-      "UA325", 
+      "UA325",
       "UAL325"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      102527513, 
-      85922583, 
-      1159396321, 
-      1645725781, 
-      85633793, 
+      102191575,
+      85688637,
+      102527513,
+      85922583,
+      1159396321,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645725781,
-    "wof:lastmodified": 1582917547,
+    "wof:lastmodified": 1717020256,
     "wof:name": "UAL325 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

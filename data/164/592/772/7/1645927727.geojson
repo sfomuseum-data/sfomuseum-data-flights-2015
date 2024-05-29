@@ -2,6 +2,10 @@
   "id": 1645927727,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-01",
+    "date:cessation_upper": "2015-08-31",
+    "date:inception_lower": "2015-08-26",
+    "date:inception_upper": "2015-08-26",
     "edtf:cessation": "2015-08-26~",
     "edtf:inception": "2015-08-26T06:41:01",
     "flysfo:airline": "F9",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150826-D-FFT-660",
     "sfomuseum:flight_number": [
-      "F9660", 
+      "F9660",
       "FFT660"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1159396321, 
-      85922583, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1645927727
+      85688637,
+      102527513,
+      1159396321,
+      85922583,
+      102191575,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582918700,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645927727,
-    "wof:lastmodified": 1582918700,
+    "wof:lastmodified": 1717020268,
     "wof:name": "FFT660 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

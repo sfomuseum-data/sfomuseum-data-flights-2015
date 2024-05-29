@@ -2,6 +2,10 @@
   "id": 1629420483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-21",
+    "date:cessation_upper": "2015-01-21",
+    "date:inception_lower": "2015-01-01",
+    "date:inception_upper": "2015-01-31",
     "edtf:cessation": "2015-01-21T21:40:47",
     "edtf:inception": "2015-01-21~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20150121-A-DAL-1690",
     "sfomuseum:flight_number": [
-      "DL1690", 
+      "DL1690",
       "DAL1690"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1629420483, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159396321, 
-      102191575, 
-      102087579, 
+      85688637,
+      102527513,
+      85633793,
+      1159396321,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629420483,
-    "wof:lastmodified": 1582914274,
+    "wof:lastmodified": 1717020269,
     "wof:name": "DAL1690 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

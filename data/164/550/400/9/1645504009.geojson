@@ -2,6 +2,10 @@
   "id": 1645504009,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-04-01",
+    "date:cessation_upper": "2015-04-30",
+    "date:inception_lower": "2015-04-24",
+    "date:inception_upper": "2015-04-24",
     "edtf:cessation": "2015-04-24~",
     "edtf:inception": "2015-04-24T16:31:38",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150424-D-UAL-1220",
     "sfomuseum:flight_number": [
-      "UA1220", 
+      "UA1220",
       "UAL1220"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      102527513, 
-      102087579, 
-      102191575, 
-      1645504009
+      85633793,
+      85922583,
+      85688637,
+      1159396321,
+      102527513,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582916125,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645504009,
-    "wof:lastmodified": 1582916125,
+    "wof:lastmodified": 1717020244,
     "wof:name": "UAL1220 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

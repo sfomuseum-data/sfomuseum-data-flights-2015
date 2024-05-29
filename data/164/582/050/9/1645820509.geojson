@@ -2,6 +2,10 @@
   "id": 1645820509,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-27",
+    "date:cessation_upper": "2015-07-27",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-27T14:42:07",
     "edtf:inception": "2015-07-27~",
     "flysfo:airline": "VS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102556703,
     "sfomuseum:flight_id": "20150727-A-VIR-19F",
     "sfomuseum:flight_number": [
-      "VS19F", 
+      "VS19F",
       "VIR19F"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396321, 
-      85633793, 
-      102527513, 
-      102191575, 
-      85922583, 
-      102087579, 
-      1645820509
+      85688637,
+      1159396321,
+      85633793,
+      102527513,
+      102191575,
+      85922583,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582918059,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645820509,
-    "wof:lastmodified": 1582918059,
+    "wof:lastmodified": 1717020259,
     "wof:name": "VIR19F (EGLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}

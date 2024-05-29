@@ -2,6 +2,10 @@
   "id": 1645768027,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-13",
+    "date:cessation_upper": "2015-07-13",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-13T00:37:11",
     "edtf:inception": "2015-07-13~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20150713-A-AAL-490",
     "sfomuseum:flight_number": [
-      "AA490", 
+      "AA490",
       "AAL490"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102191575, 
-      1645768027, 
-      1159396321, 
-      85922583, 
-      102087579, 
+      85633793,
+      102527513,
+      102191575,
+      1159396321,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645768027,
-    "wof:lastmodified": 1582917764,
+    "wof:lastmodified": 1717020259,
     "wof:name": "AAL490 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

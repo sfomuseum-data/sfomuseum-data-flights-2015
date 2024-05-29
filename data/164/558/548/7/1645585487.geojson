@@ -2,6 +2,10 @@
   "id": 1645585487,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-20",
+    "date:inception_upper": "2015-05-20",
     "edtf:cessation": "2015-05-20~",
     "edtf:inception": "2015-05-20T06:08:10",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150520-D-SWA-2436",
     "sfomuseum:flight_number": [
-      "WN2436", 
+      "WN2436",
       "SWA2436"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396321, 
-      102087579, 
-      1645585487, 
-      85633793, 
-      102191575, 
+      85922583,
+      85688637,
+      1159396321,
+      102087579,
+      85633793,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645585487,
-    "wof:lastmodified": 1582916744,
+    "wof:lastmodified": 1717020249,
     "wof:name": "SWA2436 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

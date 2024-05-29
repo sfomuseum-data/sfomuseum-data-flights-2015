@@ -2,6 +2,10 @@
   "id": 1645287289,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-23",
+    "date:cessation_upper": "2015-02-23",
+    "date:inception_lower": "2015-02-01",
+    "date:inception_upper": "2015-02-28",
     "edtf:cessation": "2015-02-23T20:33:47",
     "edtf:inception": "2015-02-23~",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20150223-A-AWE-1799",
     "sfomuseum:flight_number": [
-      "HP1799", 
+      "HP1799",
       "AWE1799"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102087579, 
-      102191575, 
-      85688637, 
-      1645287289, 
-      102527513, 
-      85922583, 
+      1159396321,
+      102087579,
+      102191575,
+      85688637,
+      102527513,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645287289,
-    "wof:lastmodified": 1582914820,
+    "wof:lastmodified": 1717020236,
     "wof:name": "AWE1799 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1645808569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-24",
+    "date:cessation_upper": "2015-07-24",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-24T08:17:03",
     "edtf:inception": "2015-07-24~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20150724-A-SWA-4290",
     "sfomuseum:flight_number": [
-      "WN4290", 
+      "WN4290",
       "SWA4290"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102191575, 
-      1159396321, 
-      102087579, 
-      102527513, 
-      1645808569, 
+      85633793,
+      85922583,
+      102191575,
+      1159396321,
+      102087579,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645808569,
-    "wof:lastmodified": 1582917989,
+    "wof:lastmodified": 1717020260,
     "wof:name": "SWA4290 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1646180039,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-09",
+    "date:inception_upper": "2015-11-09",
     "edtf:cessation": "2015-11-09~",
     "edtf:inception": "2015-11-09T15:19:12",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151109-D-DAL-2769",
     "sfomuseum:flight_number": [
-      "DL2769", 
+      "DL2769",
       "DAL2769"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102191575, 
-      1646180039, 
-      102087579, 
-      85688637, 
-      1159396321, 
+      85922583,
+      85633793,
+      102191575,
+      102087579,
+      85688637,
+      1159396321,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646180039,
-    "wof:lastmodified": 1582920201,
+    "wof:lastmodified": 1717020279,
     "wof:name": "DAL2769 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

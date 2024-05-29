@@ -2,6 +2,10 @@
   "id": 1646159691,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-03",
+    "date:cessation_upper": "2015-11-03",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-03T15:08:57",
     "edtf:inception": "2015-11-03~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20151103-A-AAL-193",
     "sfomuseum:flight_number": [
-      "AA193", 
+      "AA193",
       "AAL193"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1646159691, 
+      1159396321,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646159691,
-    "wof:lastmodified": 1582920072,
+    "wof:lastmodified": 1717020281,
     "wof:name": "AAL193 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

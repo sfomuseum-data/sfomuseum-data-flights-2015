@@ -2,6 +2,10 @@
   "id": 1645565755,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-14",
+    "date:inception_upper": "2015-05-14",
     "edtf:cessation": "2015-05-14~",
     "edtf:inception": "2015-05-14T01:20:09",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150514-D-AAL-1051",
     "sfomuseum:flight_number": [
-      "AA1051", 
+      "AA1051",
       "AAL1051"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396321, 
-      85922583, 
-      85633793, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1645565755
+      85688637,
+      1159396321,
+      85922583,
+      85633793,
+      102191575,
+      102087579,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582916608,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645565755,
-    "wof:lastmodified": 1582916608,
+    "wof:lastmodified": 1717020249,
     "wof:name": "AAL1051 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

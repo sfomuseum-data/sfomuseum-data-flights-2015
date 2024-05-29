@@ -2,6 +2,10 @@
   "id": 1645613059,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-28",
+    "date:cessation_upper": "2015-05-28",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-28T23:06:06",
     "edtf:inception": "2015-05-28~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531979,
     "sfomuseum:flight_id": "20150528-A-UAL-2133",
     "sfomuseum:flight_number": [
-      "UA2133", 
+      "UA2133",
       "UAL2133"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396321, 
-      1645613059, 
-      102527513, 
-      102191575, 
-      85922583, 
-      85633793, 
+      85688637,
+      1159396321,
+      102527513,
+      102191575,
+      85922583,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645613059,
-    "wof:lastmodified": 1582916908,
+    "wof:lastmodified": 1717020248,
     "wof:name": "UAL2133 (PANC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-149.968401,61.173606],[-122.370943,37.61799]],"type":"MultiPoint"}

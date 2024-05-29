@@ -2,6 +2,10 @@
   "id": 1629482271,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-09",
+    "date:cessation_upper": "2015-02-09",
+    "date:inception_lower": "2015-02-01",
+    "date:inception_upper": "2015-02-28",
     "edtf:cessation": "2015-02-09T10:30:41",
     "edtf:inception": "2015-02-09~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20150209-A-VRD-218",
     "sfomuseum:flight_number": [
-      "VX218", 
+      "VX218",
       "VRD218"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85922583, 
-      1159396321, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1629482271
+      102527513,
+      85633793,
+      85922583,
+      1159396321,
+      85688637,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582914580,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629482271,
-    "wof:lastmodified": 1582914580,
+    "wof:lastmodified": 1717020293,
     "wof:name": "VRD218 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

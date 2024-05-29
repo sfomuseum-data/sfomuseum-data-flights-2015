@@ -2,6 +2,10 @@
   "id": 1646247341,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-29",
+    "date:cessation_upper": "2015-11-29",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-29T22:53:55",
     "edtf:inception": "2015-11-29~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20151129-A-SWA-300",
     "sfomuseum:flight_number": [
-      "WN300", 
+      "WN300",
       "SWA300"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85922583, 
-      1646247341, 
-      1159396321, 
-      102191575, 
-      102087579, 
+      102527513,
+      85633793,
+      85922583,
+      1159396321,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646247341,
-    "wof:lastmodified": 1582920834,
+    "wof:lastmodified": 1717020284,
     "wof:name": "SWA300 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

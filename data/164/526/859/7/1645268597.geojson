@@ -2,6 +2,10 @@
   "id": 1645268597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-20",
+    "date:cessation_upper": "2015-02-20",
+    "date:inception_lower": "2015-02-01",
+    "date:inception_upper": "2015-02-28",
     "edtf:cessation": "2015-02-20T13:05:17",
     "edtf:inception": "2015-02-20~",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20150220-A-AWE-433",
     "sfomuseum:flight_number": [
-      "HP433", 
+      "HP433",
       "AWE433"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85633793, 
-      85688637, 
-      1159396321, 
-      1645268597
+      102191575,
+      102087579,
+      85922583,
+      102527513,
+      85633793,
+      85688637,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582914766,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645268597,
-    "wof:lastmodified": 1582914766,
+    "wof:lastmodified": 1717020235,
     "wof:name": "AWE433 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

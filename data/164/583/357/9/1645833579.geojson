@@ -2,6 +2,10 @@
   "id": 1645833579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-31",
+    "date:cessation_upper": "2015-07-31",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-31T04:37:17",
     "edtf:inception": "2015-07-31~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528943,
     "sfomuseum:flight_id": "20150731-A-UAL-1746",
     "sfomuseum:flight_number": [
-      "UA1746", 
+      "UA1746",
       "UAL1746"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1159396321, 
-      102087579, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1645833579
+      85633793,
+      85922583,
+      1159396321,
+      102087579,
+      85688637,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582918160,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645833579,
-    "wof:lastmodified": 1582918160,
+    "wof:lastmodified": 1717020261,
     "wof:name": "UAL1746 (LIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -159.347789, 
-    21.981539, 
-    -122.370943, 
+    -159.347789,
+    21.981539,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-159.347789,21.981539],[-122.370943,37.61799]],"type":"MultiPoint"}

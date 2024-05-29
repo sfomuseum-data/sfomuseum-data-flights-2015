@@ -2,6 +2,10 @@
   "id": 1646064133,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-06",
+    "date:cessation_upper": "2015-10-06",
+    "date:inception_lower": "2015-10-01",
+    "date:inception_upper": "2015-10-31",
     "edtf:cessation": "2015-10-06T10:34:02",
     "edtf:inception": "2015-10-06~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20151006-A-SWA-271",
     "sfomuseum:flight_number": [
-      "WN271", 
+      "WN271",
       "SWA271"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1646064133, 
-      85688637, 
+      102191575,
+      102087579,
+      85922583,
+      102527513,
+      85633793,
+      85688637,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646064133,
-    "wof:lastmodified": 1582919480,
+    "wof:lastmodified": 1717020272,
     "wof:name": "SWA271 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1629412437,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-19",
+    "date:inception_upper": "2015-01-19",
     "edtf:cessation": "2015-01-19~",
     "edtf:inception": "2015-01-19T08:32:02",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150119-D-VRD-340",
     "sfomuseum:flight_number": [
-      "VX340", 
+      "VX340",
       "VRD340"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      1159396321, 
-      102191575, 
-      102087579, 
-      102527513, 
-      85922583, 
-      1629412437
+      85688637,
+      85633793,
+      1159396321,
+      102191575,
+      102087579,
+      102527513,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582914228,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1629412437,
-    "wof:lastmodified": 1582914228,
+    "wof:lastmodified": 1717020265,
     "wof:name": "VRD340 (SFO-FLL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.138518,26.07486]],"type":"MultiPoint"}

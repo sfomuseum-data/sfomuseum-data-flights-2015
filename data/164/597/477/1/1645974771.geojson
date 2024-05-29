@@ -2,6 +2,10 @@
   "id": 1645974771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-08",
+    "date:cessation_upper": "2015-09-08",
+    "date:inception_lower": "2015-09-01",
+    "date:inception_upper": "2015-09-30",
     "edtf:cessation": "2015-09-08T20:10:51",
     "edtf:inception": "2015-09-08~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20150908-A-ASA-304",
     "sfomuseum:flight_number": [
-      "AS304", 
+      "AS304",
       "ASA304"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      85688637, 
-      102527513, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1645974771
+      1159396321,
+      85633793,
+      85688637,
+      102527513,
+      85922583,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582918956,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645974771,
-    "wof:lastmodified": 1582918956,
+    "wof:lastmodified": 1717020267,
     "wof:name": "ASA304 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

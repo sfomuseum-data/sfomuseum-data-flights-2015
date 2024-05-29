@@ -2,6 +2,10 @@
   "id": 1646178925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-01",
+    "date:cessation_upper": "2015-11-30",
+    "date:inception_lower": "2015-11-09",
+    "date:inception_upper": "2015-11-09",
     "edtf:cessation": "2015-11-09~",
     "edtf:inception": "2015-11-09T09:55:34",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151109-D-VRD-022",
     "sfomuseum:flight_number": [
-      "VX022", 
+      "VX022",
       "VRD022"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1646178925
+      1159396321,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582920195,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646178925,
-    "wof:lastmodified": 1582920195,
+    "wof:lastmodified": 1717020282,
     "wof:name": "VRD022 (SFO-KJFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

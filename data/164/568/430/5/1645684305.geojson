@@ -2,6 +2,10 @@
   "id": 1645684305,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-19",
+    "date:cessation_upper": "2015-06-19",
+    "date:inception_lower": "2015-06-01",
+    "date:inception_upper": "2015-06-30",
     "edtf:cessation": "2015-06-19T09:12:54",
     "edtf:inception": "2015-06-19~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20150619-A-UAL-1268",
     "sfomuseum:flight_number": [
-      "UA1268", 
+      "UA1268",
       "UAL1268"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159396321, 
-      102191575, 
-      1645684305
+      102527513,
+      85688637,
+      85633793,
+      102087579,
+      85922583,
+      1159396321,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582917320,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645684305,
-    "wof:lastmodified": 1582917320,
+    "wof:lastmodified": 1717020253,
     "wof:name": "UAL1268 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

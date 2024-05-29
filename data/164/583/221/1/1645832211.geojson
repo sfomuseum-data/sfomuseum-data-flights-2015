@@ -2,6 +2,10 @@
   "id": 1645832211,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-30",
+    "date:cessation_upper": "2015-07-30",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-30T17:39:59",
     "edtf:inception": "2015-07-30~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20150730-A-SWA-482",
     "sfomuseum:flight_number": [
-      "WN482", 
+      "WN482",
       "SWA482"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396321, 
-      102527513, 
-      85633793, 
-      1645832211, 
-      102191575, 
-      85688637, 
+      85922583,
+      1159396321,
+      102527513,
+      85633793,
+      102191575,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645832211,
-    "wof:lastmodified": 1582918151,
+    "wof:lastmodified": 1717020260,
     "wof:name": "SWA482 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

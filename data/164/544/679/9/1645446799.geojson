@@ -2,6 +2,10 @@
   "id": 1645446799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-04-01",
+    "date:cessation_upper": "2015-04-30",
+    "date:inception_lower": "2015-04-06",
+    "date:inception_upper": "2015-04-06",
     "edtf:cessation": "2015-04-06~",
     "edtf:inception": "2015-04-06T11:36:31",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150406-D-SWA-2496",
     "sfomuseum:flight_number": [
-      "WN2496", 
+      "WN2496",
       "SWA2496"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396321, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1645446799
+      85922583,
+      85688637,
+      1159396321,
+      102527513,
+      102191575,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582915691,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645446799,
-    "wof:lastmodified": 1582915691,
+    "wof:lastmodified": 1717020242,
     "wof:name": "SWA2496 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

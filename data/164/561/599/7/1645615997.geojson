@@ -2,6 +2,10 @@
   "id": 1645615997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-29",
+    "date:inception_upper": "2015-05-29",
     "edtf:cessation": "2015-05-29~",
     "edtf:inception": "2015-05-29T23:11:35",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150529-D-UAL-1422",
     "sfomuseum:flight_number": [
-      "UA1422", 
+      "UA1422",
       "UAL1422"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1159396321, 
-      1645615997, 
-      85922583, 
-      85633793, 
-      102191575, 
+      85688637,
+      102527513,
+      1159396321,
+      85922583,
+      85633793,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645615997,
-    "wof:lastmodified": 1582916924,
+    "wof:lastmodified": 1717020250,
     "wof:name": "UAL1422 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

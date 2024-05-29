@@ -2,6 +2,10 @@
   "id": 1645593411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-22",
+    "date:inception_upper": "2015-05-22",
     "edtf:cessation": "2015-05-22~",
     "edtf:inception": "2015-05-22T15:09:00",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150522-D-UAL-8219",
     "sfomuseum:flight_number": [
-      "UA8219", 
+      "UA8219",
       "UAL8219"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396321, 
-      102527513, 
-      102191575, 
-      1645593411
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1159396321,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582916793,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645593411,
-    "wof:lastmodified": 1582916793,
+    "wof:lastmodified": 1717020248,
     "wof:name": "UAL8219 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

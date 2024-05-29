@@ -2,6 +2,10 @@
   "id": 1645776251,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-15",
+    "date:cessation_upper": "2015-07-15",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-15T09:23:11",
     "edtf:inception": "2015-07-15~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534155,
     "sfomuseum:flight_id": "20150715-A-UAL-1440",
     "sfomuseum:flight_number": [
-      "UA1440", 
+      "UA1440",
       "UAL1440"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1645776251, 
-      85922583, 
-      1159396321, 
-      85633793, 
-      102191575, 
-      102087579, 
+      85688637,
+      85922583,
+      1159396321,
+      85633793,
+      102191575,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645776251,
-    "wof:lastmodified": 1582917805,
+    "wof:lastmodified": 1717020258,
     "wof:name": "UAL1440 (IND-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -86.278675, 
+    -122.370943,
+    37.61799,
+    -86.278675,
     39.730262
   ],
   "geometry": {"coordinates":[[-86.278675,39.730262],[-122.370943,37.61799]],"type":"MultiPoint"}

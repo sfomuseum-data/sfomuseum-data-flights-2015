@@ -2,6 +2,10 @@
   "id": 1628967353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-14",
+    "date:cessation_upper": "2015-02-14",
+    "date:inception_lower": "2015-02-01",
+    "date:inception_upper": "2015-02-28",
     "edtf:cessation": "2015-02-14T13:33:02",
     "edtf:inception": "2015-02-14~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20150214-A-SWA-4481",
     "sfomuseum:flight_number": [
-      "WN4481", 
+      "WN4481",
       "SWA4481"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1628967353, 
-      85922583, 
-      85633793, 
+      1159396321,
+      85688637,
+      102527513,
+      102191575,
+      85922583,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628967353,
-    "wof:lastmodified": 1582914668,
+    "wof:lastmodified": 1717020291,
     "wof:name": "SWA4481 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

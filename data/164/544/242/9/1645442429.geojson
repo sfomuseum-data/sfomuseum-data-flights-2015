@@ -2,6 +2,10 @@
   "id": 1645442429,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-04-04",
+    "date:cessation_upper": "2015-04-04",
+    "date:inception_lower": "2015-04-01",
+    "date:inception_upper": "2015-04-30",
     "edtf:cessation": "2015-04-04T21:32:01",
     "edtf:inception": "2015-04-04~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20150404-A-SWA-2201",
     "sfomuseum:flight_number": [
-      "WN2201", 
+      "WN2201",
       "SWA2201"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1645442429, 
-      85922583, 
-      102527513, 
-      1159396321, 
-      102191575, 
-      102087579, 
+      85633793,
+      85922583,
+      102527513,
+      1159396321,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645442429,
-    "wof:lastmodified": 1582915664,
+    "wof:lastmodified": 1717020240,
     "wof:name": "SWA2201 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

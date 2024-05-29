@@ -2,6 +2,10 @@
   "id": 1645325839,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-03-02",
+    "date:cessation_upper": "2015-03-02",
+    "date:inception_lower": "2015-03-01",
+    "date:inception_upper": "2015-03-31",
     "edtf:cessation": "2015-03-02T19:10:24",
     "edtf:inception": "2015-03-02~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20150302-A-UAL-1733",
     "sfomuseum:flight_number": [
-      "UA1733", 
+      "UA1733",
       "UAL1733"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1645325839, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1159396321, 
-      85688637, 
+      85633793,
+      85922583,
+      102191575,
+      102087579,
+      1159396321,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645325839,
-    "wof:lastmodified": 1582914942,
+    "wof:lastmodified": 1717020238,
     "wof:name": "UAL1733 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

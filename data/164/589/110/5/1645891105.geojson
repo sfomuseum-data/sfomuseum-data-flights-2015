@@ -2,6 +2,10 @@
   "id": 1645891105,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-01",
+    "date:cessation_upper": "2015-08-31",
+    "date:inception_lower": "2015-08-15",
+    "date:inception_upper": "2015-08-15",
     "edtf:cessation": "2015-08-15~",
     "edtf:inception": "2015-08-15T18:27:21",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150815-D-UAL-370",
     "sfomuseum:flight_number": [
-      "UA370", 
+      "UA370",
       "UAL370"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85633793, 
-      1645891105, 
-      85688637, 
+      85922583,
+      102527513,
+      102191575,
+      102087579,
+      85633793,
+      85688637,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645891105,
-    "wof:lastmodified": 1582918505,
+    "wof:lastmodified": 1717020261,
     "wof:name": "UAL370 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}

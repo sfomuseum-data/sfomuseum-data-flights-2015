@@ -2,6 +2,10 @@
   "id": 1645440445,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-04-04",
+    "date:cessation_upper": "2015-04-04",
+    "date:inception_lower": "2015-04-01",
+    "date:inception_upper": "2015-04-30",
     "edtf:cessation": "2015-04-04T08:23:20",
     "edtf:inception": "2015-04-04~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20150404-A-UAL-1424",
     "sfomuseum:flight_number": [
-      "UA1424", 
+      "UA1424",
       "UAL1424"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85922583, 
-      102087579, 
-      1645440445, 
-      85633793, 
-      85688637, 
-      102527513, 
+      1159396321,
+      85922583,
+      102087579,
+      85633793,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645440445,
-    "wof:lastmodified": 1582915654,
+    "wof:lastmodified": 1717020239,
     "wof:name": "UAL1424 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

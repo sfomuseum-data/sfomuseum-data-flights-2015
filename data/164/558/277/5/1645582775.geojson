@@ -2,6 +2,10 @@
   "id": 1645582775,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-19",
+    "date:cessation_upper": "2015-05-19",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-19T09:57:18",
     "edtf:inception": "2015-05-19~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20150519-A-VRD-751",
     "sfomuseum:flight_number": [
-      "VX751", 
+      "VX751",
       "VRD751"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1159396321, 
-      102527513, 
-      102191575, 
-      1645582775, 
-      102087579, 
+      85633793,
+      85922583,
+      1159396321,
+      102527513,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645582775,
-    "wof:lastmodified": 1582916729,
+    "wof:lastmodified": 1717020248,
     "wof:name": "VRD751 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

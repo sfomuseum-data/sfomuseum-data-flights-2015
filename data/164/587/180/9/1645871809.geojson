@@ -2,6 +2,10 @@
   "id": 1645871809,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-10",
+    "date:cessation_upper": "2015-08-10",
+    "date:inception_lower": "2015-08-01",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-10T15:17:47",
     "edtf:inception": "2015-08-10~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102554473,
     "sfomuseum:flight_id": "20150810-A-SWA-2465",
     "sfomuseum:flight_number": [
-      "WN2465", 
+      "WN2465",
       "SWA2465"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396321, 
-      85633793, 
-      1645871809, 
-      85922583, 
-      85688637, 
-      102527513, 
+      102087579,
+      1159396321,
+      85633793,
+      85922583,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645871809,
-    "wof:lastmodified": 1582918397,
+    "wof:lastmodified": 1717020261,
     "wof:name": "SWA2465 (CYEG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -113.584752, 
+    -122.370943,
+    37.61799,
+    -113.584752,
     53.308108
   ],
   "geometry": {"coordinates":[[-113.584752,53.308108],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1645988583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-12",
+    "date:cessation_upper": "2015-09-12",
+    "date:inception_lower": "2015-09-01",
+    "date:inception_upper": "2015-09-30",
     "edtf:cessation": "2015-09-12T00:00:28",
     "edtf:inception": "2015-09-12~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530717,
     "sfomuseum:flight_id": "20150912-A-JBU-9718",
     "sfomuseum:flight_number": [
-      "B69718", 
+      "B69718",
       "JBU9718"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1645988583, 
-      1159396321, 
-      85922583, 
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      1159396321,
+      85922583,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645988583,
-    "wof:lastmodified": 1582919041,
+    "wof:lastmodified": 1717020270,
     "wof:name": "JBU9718 (KFAT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.768728, 
-    -119.721272, 
+    -122.370943,
+    36.768728,
+    -119.721272,
     37.61799
   ],
   "geometry": {"coordinates":[[-119.721272,36.768728],[-122.370943,37.61799]],"type":"MultiPoint"}

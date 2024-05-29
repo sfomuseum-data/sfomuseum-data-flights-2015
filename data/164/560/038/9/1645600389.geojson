@@ -2,6 +2,10 @@
   "id": 1645600389,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-24",
+    "date:cessation_upper": "2015-05-24",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-24T21:46:02",
     "edtf:inception": "2015-05-24~",
     "flysfo:airline": "AC",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102555307,
     "sfomuseum:flight_id": "20150524-A-ACA-2046",
     "sfomuseum:flight_number": [
-      "AC2046", 
+      "AC2046",
       "ACA2046"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159396321, 
-      1645600389
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582916833,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645600389,
-    "wof:lastmodified": 1582916833,
+    "wof:lastmodified": 1717020247,
     "wof:name": "ACA2046 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}

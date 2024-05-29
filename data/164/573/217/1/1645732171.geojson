@@ -2,6 +2,10 @@
   "id": 1645732171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-07-02",
+    "date:cessation_upper": "2015-07-02",
+    "date:inception_lower": "2015-07-01",
+    "date:inception_upper": "2015-07-31",
     "edtf:cessation": "2015-07-02T22:44:38",
     "edtf:inception": "2015-07-02~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20150702-A-SWA-4731",
     "sfomuseum:flight_number": [
-      "WN4731", 
+      "WN4731",
       "SWA4731"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396321, 
-      102087579, 
-      1645732171
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      1159396321,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582917581,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645732171,
-    "wof:lastmodified": 1582917581,
+    "wof:lastmodified": 1717020255,
     "wof:name": "SWA4731 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

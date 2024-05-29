@@ -2,6 +2,10 @@
   "id": 1645624241,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-01",
+    "date:cessation_upper": "2015-06-01",
+    "date:inception_lower": "2015-06-01",
+    "date:inception_upper": "2015-06-30",
     "edtf:cessation": "2015-06-01T19:22:52",
     "edtf:inception": "2015-06-01~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102521851,
     "sfomuseum:flight_id": "20150601-A-UAL-1167",
     "sfomuseum:flight_number": [
-      "UA1167", 
+      "UA1167",
       "UAL1167"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1645624241, 
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102191575, 
-      1159396321, 
+      102087579,
+      85922583,
+      85688637,
+      85633793,
+      102191575,
+      1159396321,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645624241,
-    "wof:lastmodified": 1582916970,
+    "wof:lastmodified": 1717020249,
     "wof:name": "UAL1167 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}

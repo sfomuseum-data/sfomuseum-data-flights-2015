@@ -2,6 +2,10 @@
   "id": 1645970731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-01",
+    "date:cessation_upper": "2015-09-30",
+    "date:inception_lower": "2015-09-07",
+    "date:inception_upper": "2015-09-07",
     "edtf:cessation": "2015-09-07~",
     "edtf:inception": "2015-09-07T16:45:50",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150907-D-UAL-444",
     "sfomuseum:flight_number": [
-      "UA444", 
+      "UA444",
       "UAL444"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85922583, 
-      1159396321, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1645970731
+      102087579,
+      102191575,
+      85922583,
+      1159396321,
+      85633793,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582918934,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645970731,
-    "wof:lastmodified": 1582918934,
+    "wof:lastmodified": 1717020265,
     "wof:name": "UAL444 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

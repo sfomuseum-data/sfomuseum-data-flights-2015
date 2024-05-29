@@ -2,6 +2,10 @@
   "id": 1628956789,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-01-01",
+    "date:cessation_upper": "2015-01-31",
+    "date:inception_lower": "2015-01-07",
+    "date:inception_upper": "2015-01-07",
     "edtf:cessation": "2015-01-07~",
     "edtf:inception": "2015-01-07T20:57:30",
     "flysfo:airline": "PR",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150107-D-PAL-115",
     "sfomuseum:flight_number": [
-      "PR115", 
+      "PR115",
       "PAL115"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396321, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1628956789, 
+      85922583,
+      1159396321,
+      85633793,
+      85688637,
+      102527513,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1628956789,
-    "wof:lastmodified": 1582914039,
+    "wof:lastmodified": 1717020286,
     "wof:name": "PAL115 (SFO-MNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    14.517768, 
-    121.015152, 
+    -122.370943,
+    14.517768,
+    121.015152,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[121.015152,14.517768]],"type":"MultiPoint"}

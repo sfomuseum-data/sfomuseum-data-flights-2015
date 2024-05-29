@@ -2,6 +2,10 @@
   "id": 1645619959,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-31",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-31~",
     "edtf:inception": "2015-05-31T13:52:05",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150531-D-UAL-1076",
     "sfomuseum:flight_number": [
-      "UA1076", 
+      "UA1076",
       "UAL1076"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1645619959, 
-      85922583, 
-      1159396321, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
+      85922583,
+      1159396321,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645619959,
-    "wof:lastmodified": 1582916948,
+    "wof:lastmodified": 1717020251,
     "wof:name": "UAL1076 (SFO-KIAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

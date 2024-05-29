@@ -2,6 +2,10 @@
   "id": 1645278845,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-22",
+    "date:cessation_upper": "2015-02-22",
+    "date:inception_lower": "2015-02-01",
+    "date:inception_upper": "2015-02-28",
     "edtf:cessation": "2015-02-22T11:53:25",
     "edtf:inception": "2015-02-22~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20150222-A-JBU-577",
     "sfomuseum:flight_number": [
-      "B6577", 
+      "B6577",
       "JBU577"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102087579, 
-      85688637, 
-      85633793, 
-      1645278845, 
-      85922583, 
-      102527513, 
+      1159396321,
+      102087579,
+      85688637,
+      85633793,
+      85922583,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645278845,
-    "wof:lastmodified": 1582914796,
+    "wof:lastmodified": 1717020236,
     "wof:name": "JBU577 (FLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

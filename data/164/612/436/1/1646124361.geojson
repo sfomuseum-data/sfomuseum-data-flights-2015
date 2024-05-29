@@ -2,6 +2,10 @@
   "id": 1646124361,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-01",
+    "date:cessation_upper": "2015-10-31",
+    "date:inception_lower": "2015-10-23",
+    "date:inception_upper": "2015-10-23",
     "edtf:cessation": "2015-10-23~",
     "edtf:inception": "2015-10-23T18:12:53",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20151023-D-UAL-466",
     "sfomuseum:flight_number": [
-      "UA466", 
+      "UA466",
       "UAL466"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102191575, 
-      102527513, 
-      85688637, 
-      102087579, 
-      1646124361, 
-      85922583, 
+      1159396321,
+      102191575,
+      102527513,
+      85688637,
+      102087579,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646124361,
-    "wof:lastmodified": 1582919837,
+    "wof:lastmodified": 1717020277,
     "wof:name": "UAL466 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

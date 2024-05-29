@@ -2,6 +2,10 @@
   "id": 1645967197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-09-06",
+    "date:cessation_upper": "2015-09-06",
+    "date:inception_lower": "2015-09-01",
+    "date:inception_upper": "2015-09-30",
     "edtf:cessation": "2015-09-06T14:27:19",
     "edtf:inception": "2015-09-06~",
     "flysfo:airline": "BA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556703,
     "sfomuseum:flight_id": "20150906-A-BAW-11M",
     "sfomuseum:flight_number": [
-      "BA11M", 
+      "BA11M",
       "BAW11M"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1645967197, 
-      85688637, 
-      85922583, 
-      1159396321, 
-      85633793, 
-      102527513, 
-      102191575, 
+      85688637,
+      85922583,
+      1159396321,
+      85633793,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645967197,
-    "wof:lastmodified": 1582918915,
+    "wof:lastmodified": 1717020268,
     "wof:name": "BAW11M (EGLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}

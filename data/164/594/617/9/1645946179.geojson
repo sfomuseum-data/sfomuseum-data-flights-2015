@@ -2,6 +2,10 @@
   "id": 1645946179,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-08-01",
+    "date:cessation_upper": "2015-08-31",
+    "date:inception_lower": "2015-08-31",
+    "date:inception_upper": "2015-08-31",
     "edtf:cessation": "2015-08-31~",
     "edtf:inception": "2015-08-31T11:05:19",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150831-D-UAL-1556",
     "sfomuseum:flight_number": [
-      "UA1556", 
+      "UA1556",
       "UAL1556"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159396321, 
-      1645946179, 
-      102527513, 
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      1159396321,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645946179,
-    "wof:lastmodified": 1582918805,
+    "wof:lastmodified": 1717020268,
     "wof:name": "UAL1556 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

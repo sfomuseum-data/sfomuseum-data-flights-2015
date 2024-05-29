@@ -2,6 +2,10 @@
   "id": 1645613083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-28",
+    "date:inception_upper": "2015-05-28",
     "edtf:cessation": "2015-05-28~",
     "edtf:inception": "2015-05-28T23:27:59",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150528-D-UAL-1115",
     "sfomuseum:flight_number": [
-      "UA1115", 
+      "UA1115",
       "UAL1115"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1645613083, 
-      85922583, 
-      102191575, 
-      85688637, 
-      102087579, 
-      102527513, 
-      1159396321, 
+      85922583,
+      102191575,
+      85688637,
+      102087579,
+      102527513,
+      1159396321,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645613083,
-    "wof:lastmodified": 1582916908,
+    "wof:lastmodified": 1717020248,
     "wof:name": "UAL1115 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    19.431302, 
-    -99.080804, 
+    -122.370943,
+    19.431302,
+    -99.080804,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-99.080804,19.431302]],"type":"MultiPoint"}

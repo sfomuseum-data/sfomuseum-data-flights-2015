@@ -2,6 +2,10 @@
   "id": 1646188003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-11",
+    "date:cessation_upper": "2015-11-11",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-11T20:50:51",
     "edtf:inception": "2015-11-11~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20151111-A-AAL-1799",
     "sfomuseum:flight_number": [
-      "AA1799", 
+      "AA1799",
       "AAL1799"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      1159396321, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
-      1646188003
+      85633793,
+      102191575,
+      1159396321,
+      102087579,
+      85922583,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582920268,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646188003,
-    "wof:lastmodified": 1582920268,
+    "wof:lastmodified": 1717020283,
     "wof:name": "AAL1799 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

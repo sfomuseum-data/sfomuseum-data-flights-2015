@@ -2,6 +2,10 @@
   "id": 1645620551,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-31",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-31T17:13:48",
     "edtf:inception": "2015-05-31~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20150531-A-AAL-305",
     "sfomuseum:flight_number": [
-      "AA305", 
+      "AA305",
       "AAL305"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      1645620551, 
-      85922583, 
-      85688637, 
+      102191575,
+      85633793,
+      102087579,
+      102527513,
+      85922583,
+      85688637,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645620551,
-    "wof:lastmodified": 1582916950,
+    "wof:lastmodified": 1717020248,
     "wof:name": "AAL305 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

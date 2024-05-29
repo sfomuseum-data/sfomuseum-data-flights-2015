@@ -2,6 +2,10 @@
   "id": 1645431675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-04-01",
+    "date:cessation_upper": "2015-04-30",
+    "date:inception_lower": "2015-04-01",
+    "date:inception_upper": "2015-04-01",
     "edtf:cessation": "2015-04-01~",
     "edtf:inception": "2015-04-01T12:14:56",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150401-D-UAL-1242",
     "sfomuseum:flight_number": [
-      "UA1242", 
+      "UA1242",
       "UAL1242"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396321, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1645431675
+      102527513,
+      1159396321,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582915597,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645431675,
-    "wof:lastmodified": 1582915597,
+    "wof:lastmodified": 1717020240,
     "wof:name": "UAL1242 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

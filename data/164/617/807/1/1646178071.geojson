@@ -2,6 +2,10 @@
   "id": 1646178071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-08",
+    "date:cessation_upper": "2015-11-08",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-08T00:00:21",
     "edtf:inception": "2015-11-08~",
     "flysfo:airline": "5Y",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20151108-A-GTI-805",
     "sfomuseum:flight_number": [
-      "5Y805", 
+      "5Y805",
       "GTI805"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159396321, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102527513, 
-      102087579, 
-      1646178071
+      102191575,
+      1159396321,
+      85922583,
+      85688637,
+      85633793,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582920188,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646178071,
-    "wof:lastmodified": 1582920188,
+    "wof:lastmodified": 1717020282,
     "wof:name": "GTI805 (KDEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

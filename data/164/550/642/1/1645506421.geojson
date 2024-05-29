@@ -2,6 +2,10 @@
   "id": 1645506421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-04-01",
+    "date:cessation_upper": "2015-04-30",
+    "date:inception_lower": "2015-04-25",
+    "date:inception_upper": "2015-04-25",
     "edtf:cessation": "2015-04-25~",
     "edtf:inception": "2015-04-25T12:30:19",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150425-D-UAL-1149",
     "sfomuseum:flight_number": [
-      "UA1149", 
+      "UA1149",
       "UAL1149"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1645506421, 
-      1159396321, 
-      102527513, 
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      1159396321,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645506421,
-    "wof:lastmodified": 1582916145,
+    "wof:lastmodified": 1717020245,
     "wof:name": "UAL1149 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

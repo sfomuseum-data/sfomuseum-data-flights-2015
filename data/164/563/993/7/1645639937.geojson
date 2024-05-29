@@ -2,6 +2,10 @@
   "id": 1645639937,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-06-01",
+    "date:cessation_upper": "2015-06-30",
+    "date:inception_lower": "2015-06-06",
+    "date:inception_upper": "2015-06-06",
     "edtf:cessation": "2015-06-06~",
     "edtf:inception": "2015-06-06T13:27:39",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150606-D-SWA-1113",
     "sfomuseum:flight_number": [
-      "WN1113", 
+      "WN1113",
       "SWA1113"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85688637, 
-      1159396321, 
-      102087579, 
-      85922583, 
-      1645639937, 
+      102527513,
+      102191575,
+      85688637,
+      1159396321,
+      102087579,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645639937,
-    "wof:lastmodified": 1582917062,
+    "wof:lastmodified": 1717020253,
     "wof:name": "SWA1113 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

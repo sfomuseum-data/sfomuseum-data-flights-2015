@@ -2,6 +2,10 @@
   "id": 1645598509,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-01",
+    "date:cessation_upper": "2015-05-31",
+    "date:inception_lower": "2015-05-24",
+    "date:inception_upper": "2015-05-24",
     "edtf:cessation": "2015-05-24~",
     "edtf:inception": "2015-05-24T09:56:46",
     "flysfo:airline": "EY",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150524-D-ETD-182",
     "sfomuseum:flight_number": [
-      "EY182", 
+      "EY182",
       "ETD182"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102527513, 
-      102087579, 
-      1645598509, 
-      85633793, 
-      85922583, 
-      85688637, 
+      1159396321,
+      102527513,
+      102087579,
+      85633793,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645598509,
-    "wof:lastmodified": 1582916823,
+    "wof:lastmodified": 1717020251,
     "wof:name": "ETD182 (SFO-AUH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    24.429616, 
-    54.649003, 
+    -122.370943,
+    24.429616,
+    54.649003,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[54.649003,24.429616]],"type":"MultiPoint"}

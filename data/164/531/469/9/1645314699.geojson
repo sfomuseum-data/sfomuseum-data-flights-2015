@@ -2,6 +2,10 @@
   "id": 1645314699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-02-01",
+    "date:cessation_upper": "2015-02-28",
+    "date:inception_lower": "2015-02-28",
+    "date:inception_upper": "2015-02-28",
     "edtf:cessation": "2015-02-28~",
     "edtf:inception": "2015-02-28T14:12:25",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20150228-D-UAL-216",
     "sfomuseum:flight_number": [
-      "UA216", 
+      "UA216",
       "UAL216"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1645314699, 
-      85633793, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1159396321, 
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      1159396321,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645314699,
-    "wof:lastmodified": 1582914904,
+    "wof:lastmodified": 1717020237,
     "wof:name": "UAL216 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

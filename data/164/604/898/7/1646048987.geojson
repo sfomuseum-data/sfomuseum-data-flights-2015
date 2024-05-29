@@ -2,6 +2,10 @@
   "id": 1646048987,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-10-01",
+    "date:cessation_upper": "2015-10-01",
+    "date:inception_lower": "2015-10-01",
+    "date:inception_upper": "2015-10-31",
     "edtf:cessation": "2015-10-01T21:11:03",
     "edtf:inception": "2015-10-01~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20151001-A-AAL-719",
     "sfomuseum:flight_number": [
-      "AA719", 
+      "AA719",
       "AAL719"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      1159396321, 
-      85633793, 
-      1646048987, 
-      85922583, 
-      102191575, 
+      85688637,
+      102087579,
+      1159396321,
+      85633793,
+      85922583,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646048987,
-    "wof:lastmodified": 1582919394,
+    "wof:lastmodified": 1717020275,
     "wof:name": "AAL719 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

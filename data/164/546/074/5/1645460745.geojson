@@ -2,6 +2,10 @@
   "id": 1645460745,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-04-10",
+    "date:cessation_upper": "2015-04-10",
+    "date:inception_lower": "2015-04-01",
+    "date:inception_upper": "2015-04-30",
     "edtf:cessation": "2015-04-10T20:08:06",
     "edtf:inception": "2015-04-10~",
     "flysfo:airline": "CI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102551487,
     "sfomuseum:flight_id": "20150410-A-CAL-004",
     "sfomuseum:flight_number": [
-      "CI004", 
+      "CI004",
       "CAL004"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1645460745, 
-      1159396321, 
-      85922583, 
+      102087579,
+      102527513,
+      102191575,
+      85633793,
+      1159396321,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645460745,
-    "wof:lastmodified": 1582915790,
+    "wof:lastmodified": 1717020242,
     "wof:name": "CAL004 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[121.233152,25.078566],[-122.370943,37.61799]],"type":"MultiPoint"}

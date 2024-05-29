@@ -2,6 +2,10 @@
   "id": 1646232819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-11-25",
+    "date:cessation_upper": "2015-11-25",
+    "date:inception_lower": "2015-11-01",
+    "date:inception_upper": "2015-11-30",
     "edtf:cessation": "2015-11-25T11:14:55",
     "edtf:inception": "2015-11-25~",
     "flysfo:airline": "SY",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531021,
     "sfomuseum:flight_id": "20151125-A-SCX-8651",
     "sfomuseum:flight_number": [
-      "SY8651", 
+      "SY8651",
       "SCX8651"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1159396321, 
-      102527513, 
-      102087579, 
-      1646232819, 
-      85922583, 
+      102191575,
+      85633793,
+      1159396321,
+      102527513,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1646232819,
-    "wof:lastmodified": 1582920725,
+    "wof:lastmodified": 1717020282,
     "wof:name": "SCX8651 (KMLU-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.510899, 
-    -92.037697, 
+    -122.370943,
+    32.510899,
+    -92.037697,
     37.61799
   ],
   "geometry": {"coordinates":[[-92.037697,32.510899],[-122.370943,37.61799]],"type":"MultiPoint"}

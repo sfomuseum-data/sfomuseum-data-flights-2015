@@ -2,6 +2,10 @@
   "id": 1645564771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2015-05-13",
+    "date:cessation_upper": "2015-05-13",
+    "date:inception_lower": "2015-05-01",
+    "date:inception_upper": "2015-05-31",
     "edtf:cessation": "2015-05-13T18:56:38",
     "edtf:inception": "2015-05-13~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20150513-A-AAL-2029",
     "sfomuseum:flight_number": [
-      "AA2029", 
+      "AA2029",
       "AAL2029"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      102087579, 
-      1159396321, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1645564771
+      85688637,
+      102191575,
+      102087579,
+      1159396321,
+      85922583,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582916591,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1645564771,
-    "wof:lastmodified": 1582916591,
+    "wof:lastmodified": 1717020249,
     "wof:name": "AAL2029 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2015",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}
